@@ -1,0 +1,583 @@
+{
+    "id": "Ph 1A",
+    "course_id": "Ph 1A",
+    "name": "Classical Mechanics and Electromagnetism",
+    "response_rate": 0.3875598086124402,
+    "course": {
+        "Reason For Taking Course": {
+            "Option/Minor": "2%",
+            "Core": "97%",
+            "Reputation": "0%",
+            "Interest": "0%",
+            "Other": "0%",
+            "Not Answered": "0%"
+        },
+        "Was The Amount Of Work Required Higher Or Lower Than The Units Listed In The Catalog?": {
+            "Noticeably High": "0%",
+            "Somewhat High": "6%",
+            "About Right": "79%",
+            "Somewhat Low": "12%",
+            "Noticeably Low": "2%",
+            "Not Answered": "0%"
+        },
+        "% Of Lectures Attended": {
+            "100%": "22%",
+            "90%": "19%",
+            "80%": "16%",
+            "70%": "7%",
+            "60%": "7%",
+            "50%": "9%",
+            "40%": "2%",
+            "30%": "1%",
+            "20%": "2%",
+            "10%": "8%",
+            "0%": "1%",
+            "Not Answered": "1%"
+        },
+        "Expected Grade": {
+            "A": "0%",
+            "B": "0%",
+            "C": "0%",
+            "D": "0%",
+            "E": "0%",
+            "F": "0%",
+            "Pass": "100%",
+            "Fail": "0%",
+            "Not Answered": "0%"
+        },
+        "Hours/Week Spent On Coursework Outside Of Class": {
+            "1-3": "20%",
+            "4-6": "58%",
+            "7-9": "14%",
+            "10-12": "4%",
+            "13-15": "0%",
+            "16-19": "0%",
+            "20-23": "0%",
+            "24+": "0%",
+            "Not Answered": "1%"
+        },
+        "% Of Homework Completed": {
+            "100%": "91%",
+            "90%": "7%",
+            "80%": "1%",
+            "70%": "0%",
+            "60%": "0%",
+            "50%": "0%",
+            "40%": "0%",
+            "30%": "0%",
+            "20%": "0%",
+            "10%": "0%",
+            "0%": "0%",
+            "Not Answered": "0%"
+        },
+        "The quality of the course content": {
+            "score": "4.42",
+            "stdev": "0.65",
+            "dept": "4.30",
+            "caltech": "4.24"
+        }
+    },
+    "instructor": {
+        "Clifford Cheung": {
+            "type": "Instructor",
+            "The instructor's overall teaching": {
+                "score": "4.48",
+                "stdev": "0.73",
+                "dept": "4.36",
+                "caltech": "4.21"
+            },
+            "Set out and met clear objectives announced for the course": {
+                "score": "4.56",
+                "stdev": "0.64",
+                "dept": "4.40",
+                "caltech": "4.30"
+            },
+            "Displayed thorough knowledge of course material": {
+                "score": "4.67",
+                "stdev": "0.55",
+                "dept": "4.64",
+                "caltech": "4.61"
+            },
+            "Explained concepts clearly": {
+                "score": "4.49",
+                "stdev": "0.72",
+                "dept": "4.34",
+                "caltech": "4.21"
+            },
+            "Distinguished between more important and less important topics": {
+                "score": "4.19",
+                "stdev": "1.00",
+                "dept": "4.21",
+                "caltech": "4.08"
+            },
+            "Presented material at an appropriate pace": {
+                "score": "4.36",
+                "stdev": "0.84",
+                "dept": "4.21",
+                "caltech": "4.12"
+            },
+            "Emphasized conceptual understanding and/or critical thinking": {
+                "score": "4.45",
+                "stdev": "0.68",
+                "dept": "4.41",
+                "caltech": "4.36"
+            },
+            "Related course topics to one another": {
+                "score": "4.57",
+                "stdev": "0.64",
+                "dept": "4.44",
+                "caltech": "4.38"
+            },
+            "Demonstrated concern about whether students were learning": {
+                "score": "4.44",
+                "stdev": "0.81",
+                "dept": "4.45",
+                "caltech": "4.31"
+            },
+            "Inspired and motivated student interest in the course content": {
+                "score": "4.57",
+                "stdev": "0.69",
+                "dept": "4.43",
+                "caltech": "4.27"
+            },
+            "Was available for consultation outside of class": {
+                "score": "4.00",
+                "stdev": "1.15",
+                "dept": "4.45",
+                "caltech": "4.36"
+            },
+            "Selected course content that was valuable and worth learning": {
+                "score": "4.50",
+                "stdev": "0.67",
+                "dept": "4.47",
+                "caltech": "4.35"
+            },
+            "Organized course topics in a coherent fashion": {
+                "score": "4.47",
+                "stdev": "0.78",
+                "dept": "4.36",
+                "caltech": "4.26"
+            },
+            "Chose assignments that solidified understanding": {
+                "score": "4.36",
+                "stdev": "0.75",
+                "dept": "4.34",
+                "caltech": "4.22"
+            },
+            "Explained clearly how students would be evaluated": {
+                "score": "4.55",
+                "stdev": "0.57",
+                "dept": "4.49",
+                "caltech": "4.33"
+            },
+            "Designed and used fair grading procedures": {
+                "score": "4.53",
+                "stdev": "0.63",
+                "dept": "4.56",
+                "caltech": "4.36"
+            },
+            "Gave tests and quizzes that accurately reflected material taught": {
+                "score": "4.23",
+                "stdev": "0.95",
+                "dept": "4.32",
+                "caltech": "4.29"
+            }
+        },
+        "Isabel Sands": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "0.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "0.00",
+                "stdev": "0.00",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "0.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "0.00",
+                "stdev": "0.00",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Cyuan Han Chang": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "2.00",
+                "stdev": "1.00",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "2.00",
+                "stdev": "1.00",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "2.50",
+                "stdev": "1.50",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "2.00",
+                "stdev": "1.00",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "1.50",
+                "stdev": "0.50",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Yinan Chen": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "4.00",
+                "stdev": "0.00",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "4.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "4.00",
+                "stdev": "0.00",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "4.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "4.00",
+                "stdev": "0.00",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Aracely Gutierrez": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "3.20",
+                "stdev": "1.47",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "3.20",
+                "stdev": "1.47",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "3.40",
+                "stdev": "1.62",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "3.40",
+                "stdev": "1.36",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "3.60",
+                "stdev": "1.36",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Sergi Hildebrandt": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "4.96",
+                "stdev": "0.20",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "4.88",
+                "stdev": "0.32",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "4.92",
+                "stdev": "0.27",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "4.96",
+                "stdev": "0.20",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Joonhwi Kim": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "4.50",
+                "stdev": "0.50",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "4.50",
+                "stdev": "0.50",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "4.00",
+                "stdev": "1.00",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "4.00",
+                "stdev": "1.00",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Harvey Newman": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "4.25",
+                "stdev": "0.83",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "4.00",
+                "stdev": "1.00",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "4.25",
+                "stdev": "0.83",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "3.75",
+                "stdev": "1.30",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "4.00",
+                "stdev": "1.00",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Hien Nguyen": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "4.67",
+                "stdev": "0.47",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "4.60",
+                "stdev": "0.66",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "4.90",
+                "stdev": "0.30",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "4.70",
+                "stdev": "0.64",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "4.60",
+                "stdev": "0.49",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Akiyoshi Park": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "4.50",
+                "stdev": "0.50",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "4.50",
+                "stdev": "0.50",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "4.50",
+                "stdev": "0.50",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "4.50",
+                "stdev": "0.50",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "4.50",
+                "stdev": "0.50",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Varun Raj": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        },
+        "Sophia Tevosyan": {
+            "type": "Teaching Assistant",
+            "Provided helpful comments on assignments, papers, exams": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.54",
+                "caltech": "4.59"
+            },
+            "Answered questions clearly and concisely": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.55"
+            },
+            "Was well prepared for section, office hours or lab": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.43",
+                "caltech": "4.58"
+            },
+            "Presented material clearly in section or lab": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.44",
+                "caltech": "4.59"
+            },
+            "Overall teaching effectiveness": {
+                "score": "5.00",
+                "stdev": "0.00",
+                "dept": "4.49",
+                "caltech": "4.58"
+            }
+        }
+    },
+    "comments": [
+        "Lectures are great and really worth it to build conceptual understanding. He explains the math thoroughly. Textbook isn't really worth it IMO",
+        "Professor Cheung does a great job explaining and covering concepts discussed in lecture. However, often the problem sets involve topics well beyond lectures and may get confusing. If you have not taken AP Physics C or equivalent, this class may seem a lot harder than expected due to how much depth the problem sets can be. The quizzes in general are easier than the homework.",
+        "Lectures are engaging and interesting. Teacher explains the concepts well. The best way to study is to review the problem sets and past quizzes.",
+        "Go to Sergei's everything. Honestly I probably should have stopped going to lecture and only read the textbook... but I liked Cheung and the demos so I continued to go even though it was a lot more simple than the skills we needed.",
+        "Just go to office hours and you'll be fine. The textbook is difficult to learn from sometimes, but sometimes not.",
+        "I personally did not use the textbook too much in this course, but I have heard that it is helpful for others. The Feynman suggested readings help me to understand the derivation of physics concepts we discuss in class, so I recommend looking at those. I also highly recommend going to physics review sessions for the quizzes. Recitation sessions and office hours are extremely helpful for p-sets and quizzes, and lectures are very helpful to understand physics concepts and why we use/need them.",
+        "Go to Sergi's recitation sections.",
+        "Ph 1a is a great intro course; things are paced well and mostly consistent from week to week. Lectures are understandable, but pretty much straight off of the lecture notes, so even if you miss lectures, it's pretty easy to get caught up with the material. Usually the rec sections are more in depth than the lecture (at least with Sergi) so going to rec is more important than the lectures. I think everything was open-book, including the final, so the emphasis is definitely more on critical thinking rather than memorization. The one frustrating thing is that the assumptions made in a given problem aren't always clear or well-stated, so it takes getting used to to understand which ones the course tends to make. Textbook is helpful if you like learning from written material.",
+        "Go to every lecture. Take notes on everything. Understand the big concepts before anything else. The first homework is probably the hardest, but that's just because of one problem on it.",
+        "The textbook is very helpful, but there are also lots of things to go through. Try to set a fair amount of time to do this.",
+        "Read the textbook it really smooths things out and go to office hours they are lifesavers.",
+        "The class is very well-taught and interesting. I would definitely recommend doing the required reading (from Mechanical Universe) to understand the content required for the homework, since the lecture often doesn't cover it. TA recitation sections are very helpful for understanding concepts and getting practice with problems, so I would definitely recommend attending those regularly. Workload is very reasonable if you do the reading.",
+        "Professor Chung genuinely cares about his students, answers questions with enthusiasm, cracks jokes during lectures, and tries his best to explain every concept in detail. Professor Chung is someone that all professors in the world should strive to be, an academic auxiliary. The course overall is definitely challenging, and there are some topics that may be difficult to grasp but that's the nature of seeing something for the first time.",
+        "The lectures tend to be easier than the problem sets, quizzes and final problems. I never read the textbook and I was fine. There are ca 5 problem set questions every week, and I'd recommend doing them with someone else, both for efficiency but also because people may have different methodologies that give them different answers, and discussing why one is right and the other isn't will help you do better on the final when you have to do it all yourself. Use the TAs and OHs as needed.",
+        "If you've taken AP Physics C, this class will be a breeze. Find a good recitation section and go to that because a lot of the problems will be similar to the sets and quizzes.",
+        "Ph1a was an interesting class.  It definitely goes at an appropriate pace and the units just about line up with the actual amount of time you will spend on the class.",
+        "Overall this is a good physics course, I thought the work was reasonable and straightforward mostly. Cheung is a good professor and a good lecturer. If you're confused, as long as you go to TA's who are helpful, you'll be fine. I just wish that the lectures were more aligned toward the problem sets, especially as the class progresses.",
+        "Professor Cheung is a great professor! His lectures are interesting and easy to follow, and he clearly cares about his students' understanding of course material.Physics 1a is definitely challenging as someone who didn't take calculus-based physics beforehand, but it is very doable as long as you keep up on lectures and collaborate with other people. The questions given on sets and quizzes could honestly be kinda fun\u2014they felt a bit like puzzles, and were pretty rewarding once you worked through them. My advice is just don't let yourself fall behind. Read the textbook and go to lecture, and you'll be fine!",
+        "This course is probably one of the best courses you have to take in Fall term of frosh year.",
+        "Pretty easy course since it's on pass-fail",
+        "This class pretty much goes over AP Physics C with some additional topics towards the end. Lectures are engaging with fun demos and Cheung does a good job of explaining concepts clearly. Homework problems are very doable. If you need help office hours and recitations provide good problem-solving practice. Overall best frosh core class in my opinion.",
+        "This class was similar to Ma 1a in lecture style, in that Professor Cheung mathematically derived laws and theorems we would need to use on the homework. However, unlike Ma 1a, the derivations were irrelevant. The homework was very similar to AP Physics C FRQs (perhaps slightly harder at times) and rarely even needed calculus, never mind the differential equations and vector products used in class.As someone who took AP Physics C, this class was a breeze, even though I failed the placement test. If you don't have good physics background, it will probably be a little harder, but it's still a very reasonable class. Also, the lecture demos were very cool.My time breakdown for each assignment: https://imgur.com/a/YRo7jkA",
+        "This class is a ton of fun, even for non-physics majors. I'd recommend using the textbooks to understand new concepts further because sometimes Cheung brushes over stuff that will be in the sets.For people with little physics background before Caltech it might be a struggle but make sure to go to office hours and ask questions and you will catch up pretty quickly.Also make sure to attend the last lecture of the term, it's really important to learn about gyroscopes :)",
+        "Please attend Sergi Hildebrandt's sessions, even if you are not in his section, they are very useful. His notes were also brilliant.",
+        "Lectures are good to attend since Prof. Cheung is a patient and attentive teacher, answers questions, and does fun demos at the end of each class. Overlaps with AP Physics C Mechanics.",
+        "The workload was manageable if you were well versed in mechanics or if you knew where to get help. My best advice is to attend lecture, take notes, read the book, and collaborate with others. The class is very fast paced, and so it is very difficult to master topics in time for the quizzes. To help with this, I would suggest reading the book as you work through the class and using resources such as YouTube to find more examples and explanations.",
+        "If you struggled with physics in high school, this class will be difficult. Get help from office hours and recitation sections. Equations are very important.",
+        "The difficultly of the sets and quizzes might sometimes jump drastically compared to what was taught in class, but just go with the flow, it's alright.",
+        "go to the office hours/study sessions, at least look at the textbook and you'll probably be fine",
+        "If you ever struggle, go to office hours! A million thanks to Professor Nguyen for all the help!This course is well-taught and the in-class demonstrations are a lot of fun. That being said, make sure to take the placement exam if you have any background in Newtonian mechanics! I hate to say it, but there isn't much to learn here and you'll feel like you're wasting your time if you already know the material.",
+        "The bulk of the content of lectures was deriving principles with not a lot of emphasis on how to use said principles for solving problems, so you should go to recitiation, office hours, read the textbook, and use other online resources for help with that."
+    ]
+}
