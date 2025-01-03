@@ -1,0 +1,550 @@
+{
+    "acm-11": {
+        "id": "acm-11",
+        "course_id": "ACM 11",
+        "name": "Introduction to Computational Science and Engineering",
+        "units": "6 units (2-2-2)",
+        "terms": "third term",
+        "description": "This course is intended to serve as a practical introduction to the methods of computational science and engineering for students in all majors. The goal is to provide students exposure to and hands-on experience with commonly-used computational methods in science and engineering, with theoretical considerations confined to a level appropriate for first-year undergraduate students. Topics covered include computational simulation by discretization in space and time, numerical solution of linear and nonlinear equations, optimization, uncertainty quantification, and function approximation via interpolation and regression. Emphasis is on understanding trade-offs between computational effort and accuracy, and on developing working knowledge of how these tools can be used to solve a wide range of problems arising in applied math, science, and engineering. Assignments and in-class activities use MATLAB. No prior experience with MATLAB expected.",
+        "offered": true,
+        "instructors": "Carlson",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/introduction-to-computational-science-and-engineering",
+        "prereq_text": "Prerequisites: Ma 1 ab, Co-requisite Ma 1 c. CS 1 or prior programming experience recommended.",
+        "prereqs": [
+            "ma-1-d",
+            "ma-1-abc",
+            "cs-1-x",
+            "cs-1"
+        ]
+    },
+    "acm-80-abc": {
+        "id": "acm-80-abc",
+        "course_id": "ACM 80 abc",
+        "name": "Undergraduate Thesis",
+        "units": "9 units",
+        "terms": "first, second, third terms",
+        "description": "Individual research project, carried out under the supervision of a member of the ACM faculty (or other faculty as approved by the ACM undergraduate option representative). Projects must include significant design effort. Written report required. Open only to upper class students. Not offered on a pass/fail basis.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/undergraduate-thesis",
+        "prereq_text": "Prerequisites: instructor's permission, which should be obtained sufficiently early to allow time for planning the research.",
+        "prereqs": []
+    },
+    "acm-81-abc": {
+        "id": "acm-81-abc",
+        "course_id": "ACM 81 abc",
+        "name": "Undergraduate Projects in Applied and Computational Mathematics",
+        "units": "",
+        "terms": "first, second, third terms",
+        "description": "Supervised research or development in ACM by undergraduates. The topic must be approved by the project supervisor, and a formal final report must be presented on completion of research. Graded pass/fail.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/undergraduate-projects-in-applied-and-computational-mathematics",
+        "prereq_text": "Prerequisites: Consent of supervisor is required before registering.",
+        "prereqs": []
+    },
+    "acm-95100-ab": {
+        "id": "acm-95100-ab",
+        "course_id": "ACM 95/100 ab",
+        "name": "Introductory Methods of Applied Mathematics for the Physical Sciences",
+        "units": "12 units (4-0-8)",
+        "terms": "second, third terms",
+        "description": "Complex analysis: analyticity, Laurent series, contour integration, residue calculus. Ordinary differential equations: linear initial value problems, linear boundary value problems, Sturm-Liouville theory, eigenfunction expansions, transform methods, Green's functions. Linear partial differential equations: heat equation, separation of variables, Laplace equation, transform methods, wave equation, method of characteristics, Green's functions.",
+        "offered": true,
+        "instructors": "Zuev, Hoffmann",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/introductory-methods-of-applied-mathematics-for-the-physical-sciences",
+        "prereq_text": "Prerequisites: Ma 1 abc, Ma 2 or equivalents.",
+        "prereqs": [
+            "ma-1-d",
+            "ma-2102",
+            "ma-1-abc"
+        ]
+    },
+    "acmids-101-ab": {
+        "id": "acmids-101-ab",
+        "course_id": "ACM/IDS 101 ab",
+        "name": "Methods of Applied Mathematics",
+        "units": "12 units (4-4-4)",
+        "terms": "first, second terms",
+        "description": "First term: Brief review of the elements of complex analysis and complex-variable methods. Asymptotic expansions, asymptotic evaluation of integrals (Laplace method, stationary phase, steepest descents), perturbation methods, WKB theory, boundary-layer theory, matched asymptotic expansions with first-order and high-order matching. Method of multiple scales for oscillatory systems. Second term: Applied spectral theory, special functions, generalized eigenfunction expansions, convergence theory. Gibbs and Runge phenomena and their resolution. Chebyshev expansion and Fourier Continuation methods. Review of numerical stability theory for time evolution. Fast spectrally-accurate PDE solvers for linear and nonlinear Partial Differential Equations in general domains. Integral-equations methods for linear partial differential equation in general domains (Laplace, Helmholtz, Schroedinger, Maxwell, Stokes). Homework problems in both 101 a and 101 b include theoretical questions as well as programming implementations of the mathematical and numerical methods studied in class.",
+        "offered": true,
+        "instructors": "Bruno",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/methods-of-applied-mathematics",
+        "prereq_text": "Prerequisites: Math 2/102 and ACM 95 ab or equivalent.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "acmids-104": {
+        "id": "acmids-104",
+        "course_id": "ACM/IDS 104",
+        "name": "Applied Linear Algebra",
+        "units": "9 units (3-1-5)",
+        "terms": "first term",
+        "description": "This is an intermediate linear algebra course aimed at a diverse group of students, including junior and senior majors in applied mathematics, sciences and engineering. The focus is on applications. Matrix factorizations play a central role. Topics covered include linear systems, vector spaces and bases, inner products, norms, minimization, the Cholesky factorization, least squares approximation, data fitting, interpolation, orthogonality, the QR factorization, ill-conditioned systems, discrete Fourier series and the fast Fourier transform, eigenvalues and eigenvectors, the spectral theorem, optimization principles for eigenvalues, singular value decomposition, condition number, principal component analysis, the Schur decomposition, methods for computing eigenvalues, non-negative matrices, graphs, networks, random walks, the Perron-Frobenius theorem, PageRank algorithm.",
+        "offered": true,
+        "instructors": "Zuev",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/applied-linear-algebra",
+        "prereq_text": "Prerequisites: Ma 1 abc, some familiarity with MATLAB, e.g. ACM 11 is desired.",
+        "prereqs": [
+            "ma-1-d",
+            "acm-11",
+            "ma-1-abc"
+        ]
+    },
+    "acmee-106-ab": {
+        "id": "acmee-106-ab",
+        "course_id": "ACM/EE 106 ab",
+        "name": "Introductory Methods of Computational Mathematics",
+        "units": "12 units (3-0-9)",
+        "terms": "first, second terms",
+        "description": "The sequence covers the introductory methods in both theory and implementation of numerical linear algebra, approximation theory, ordinary differential equations, and partial differential equations. The linear algebra parts cover basic methods such as direct and iterative solution of large linear systems, including LU decomposition, splitting method (Jacobi iteration, Gauss-Seidel iteration); eigenvalue and vector computations including the power method, QR iteration and Lanczos iteration; nonlinear algebraic solvers. The approximation theory includes data fitting; interpolation using Fourier transform, orthogonal polynomials and splines; least square method, and numerical quadrature. The ODE parts include initial and boundary value problems. The PDE parts include finite difference and finite element for elliptic/parabolic/hyperbolic equations. Study of numerical PDE will include stability analysis. Programming is a significant part of the course.",
+        "offered": true,
+        "instructors": "Hou",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/introductory-methods-of-computational-mathematics",
+        "prereq_text": "Prerequisites: For ACM/EE 106 a, Ma 1 abc, Ma 2, Ma 3, ACM 11; for ACM/EE 106 b, ACM 95/100 ab or equivalent.",
+        "prereqs": [
+            "acmee-106-ab",
+            "acm-11",
+            "ma-1-d",
+            "ma-2102",
+            "acm-95100-ab",
+            "ma-3103",
+            "ma-1-abc"
+        ]
+    },
+    "cmsacmids-107-ab": {
+        "id": "cmsacmids-107-ab",
+        "course_id": "CMS/ACM/IDS 107 ab",
+        "name": "Linear Analysis with Applications",
+        "units": "12 units (3-0-9)",
+        "terms": "first term",
+        "description": "Part a: Covers the basic algebraic, geometric, and topological properties of normed linear spaces, inner-product spaces and linear maps. Emphasis is placed both on rigorous mathematical development and on applications to control theory, data analysis and partial differential equations. Topics: Completeness, Banach spaces (l_p, L_p), Hilbert spaces (weighted l_2, L_2 spaces), introduction to Fourier transform, Fourier series and Sobolev spaces, Banach spaces of linear operators, duality and weak convergence, density, separability, completion, Schauder bases, continuous and compact embedding, compact operators, orthogonality, Lax-Milgram, Spectral Theorem and SVD for compact operators, integral operators, Jordan normal form. Part b: Continuation of ACM 107a, developing new material and providing further details on some topics already covered. Emphasis is placed both on rigorous mathematical development and on applications to control theory, data analysis and partial differential equations.Topics: Review of Banach spaces, Hilbert spaces, Linear Operators, and Duality, Hahn-Banach Theorem, Open Mapping and Closed Graph Theorem, Uniform Boundedness Principle, The Fourier transform (L1, L2, Schwartz space theory), Sobolev spaces (W^s,p, H^s), Sobolev embedding theorem, Trace theorem Spectral Theorem, Compact operators, Ascoli Arzela theorem, Contraction Mapping Principle, with applications to the Implicit Function Theorem and ODEs, Calculus of Variations (differential calculus, existence of extrema, Gamma-convergence, gradient flows) Applications to Inverse Problems (Tikhonov regularization, imaging applications).",
+        "offered": true,
+        "instructors": "Stuart",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/linear-analysis-with-applications",
+        "prereq_text": "Prerequisites: ACM/IDS 104 or equivalent, Ma 1b or equivalent.",
+        "prereqs": [
+            "acmids-104",
+            "ma-1-d",
+            "ma-1-abc"
+        ]
+    },
+    "acm-109": {
+        "id": "acm-109",
+        "course_id": "ACM 109",
+        "name": "Mathematical Modelling",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Prerequisites ACM 95/100 ab or equivalent. This course gives an overview of different mathematical models used to describe a variety of phenomena arising in the biological, engineering, physical and social sciences. Emphasis will be placed on the principles used to develop these models, and on the unity and cross-cutting nature of the mathematical and computational tools used to study them. Applications will include quantum, atomistic and continuum modeling of materials; epidemics, reacting-diffusing systems; crowd modeling and opinion formation. Mathematical tools will include ordinary, partial and stochastic differential equations, as well as Markov chains and other stochastic processes.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Stuart",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/mathematical-modelling",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "ecacmcs-112": {
+        "id": "ecacmcs-112",
+        "course_id": "Ec/ACM/CS 112",
+        "name": "Bayesian Statistics",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This course provides an introduction to Bayesian Statistics and its applications to data analysis in various fields. Topics include: discrete models, regression models, hierarchical models, model comparison, and MCMC methods. The course combines an introduction to basic theory with a hands-on emphasis on learning how to use these methods in practice so that students can apply them in their own work. Previous familiarity with frequentist statistics is useful but not required.",
+        "offered": true,
+        "instructors": "Rangel",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/bayesian-statistics",
+        "prereq_text": "Prerequisites: Ma 3, ACM/EE/IDS 116 or equivalent.",
+        "prereqs": [
+            "acmeeids-116",
+            "ma-3103"
+        ]
+    },
+    "acmeeids-116": {
+        "id": "acmeeids-116",
+        "course_id": "ACM/EE/IDS 116",
+        "name": "Introduction to Probability Models",
+        "units": "9 units (3-1-5)",
+        "terms": "first term",
+        "description": "This course introduces students to the fundamental concepts, methods, and models of applied probability and stochastic processes. The course is application oriented and focuses on the development of probabilistic thinking and intuitive feel of the subject rather than on a more traditional formal approach based on measure theory. The main goal is to equip science and engineering students with necessary probabilistic tools they can use in future studies and research. Topics covered include sample spaces, events, probabilities of events, discrete and continuous random variables, expectation, variance, correlation, joint and marginal distributions, independence, moment generating functions, law of large numbers, central limit theorem, random vectors and matrices, random graphs, Gaussian vectors, branching, Poisson, and counting processes, general discrete- and continuous-timed processes, auto- and cross-correlation functions, stationary processes, power spectral densities.",
+        "offered": true,
+        "instructors": "Zuev",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/introduction-to-probability-models",
+        "prereq_text": "Prerequisites: Ma 3 or EE 55, some familiarity with MATLAB, e.g. ACM 11, is desired.",
+        "prereqs": [
+            "acm-11",
+            "ma-3103",
+            "ee-55"
+        ]
+    },
+    "cmsacm-117": {
+        "id": "cmsacm-117",
+        "course_id": "CMS/ACM 117",
+        "name": "Probability Theory and Computational Mathematics",
+        "units": "12 units (3-0-9)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Tropp",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/probability-theory-and-computational-mathematics",
+        "prereq_text": "Prerequisites: ACM 104 and ACM 116; or instructor's permission.",
+        "prereqs": []
+    },
+    "acm-118": {
+        "id": "acm-118",
+        "course_id": "ACM 118",
+        "name": "Stochastic Processes and Regression",
+        "units": "12 units (3-0-9)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Owhadi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/stochastic-processes-and-regression",
+        "prereq_text": "Prerequisites: CMS/ACM/IDS 107 or equivalent, ACM 116 or equivalent, or permission of the instructor.",
+        "prereqs": [
+            "cmsacmids-107-ab"
+        ]
+    },
+    "cmsacmee-122": {
+        "id": "cmsacmee-122",
+        "course_id": "CMS/ACM/EE 122",
+        "name": "Mathematical Optimization",
+        "units": "12 units (4-0-8)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Chandrasekaran",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/mathematical-optimization",
+        "prereq_text": "Prerequisites: ACM 11 and ACM 104, or instructor's permission.",
+        "prereqs": [
+            "acm-11"
+        ]
+    },
+    "amacm-127": {
+        "id": "amacm-127",
+        "course_id": "AM/ACM 127",
+        "name": "Calculus of Variations",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "First and second variations; Euler-Lagrange equation; Hamiltonian formalism; action principle; Hamilton-Jacobi theory; stability; local and global minima; direct methods and relaxation; isoperimetric inequality; asymptotic methods and gamma convergence; selected applications to mechanics, materials science, control theory and numerical methods.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/calculus-of-variations",
+        "prereq_text": "Prerequisites: ACM 95/100.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "maacmids-140-abc": {
+        "id": "maacmids-140-abc",
+        "course_id": "Ma/ACM/IDS 140 abc",
+        "name": "Probability",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "This course begins with an overview of measure theory, followed by topics that include random walks, the strong law of large numbers, the central limit theorem, martingales, Markov chains, characteristic functions, Poisson processes, and Brownian motion. Towards the end, some further topics may be covered, such as stochastic calculus, stochastic differential equations, Gaussian processes, random graphs, Markov chain mixing, random matrix theory, and interacting particle systems.",
+        "offered": true,
+        "instructors": "Tamuz, El-Maazouz, Zhang",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/probability",
+        "prereq_text": "Prerequisites: For 140 a, Ma 108 b is strongly recommended.",
+        "prereqs": [
+            "ma-108-abc"
+        ]
+    },
+    "maacm-142-ab": {
+        "id": "maacm-142-ab",
+        "course_id": "Ma/ACM 142 ab",
+        "name": "Ordinary and Partial Differential Equations",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "The mathematical theory of ordinary and partial differential equations, including a discussion of elliptic regularity, maximal principles, solubility of equations. The method of characteristics.\n Part b not offered 2024-25.",
+        "offered": true,
+        "instructors": "Looi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/ordinary-and-partial-differential-equations",
+        "prereq_text": "Prerequisites: Ma 108; Ma 109 is desirable.",
+        "prereqs": [
+            "ma-109-abc",
+            "ma-108-abc"
+        ]
+    },
+    "acmids-154": {
+        "id": "acmids-154",
+        "course_id": "ACM/IDS 154",
+        "name": "Inverse Problems and Data Assimilation",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Models in applied mathematics often have input parameters that are uncertain; observed data can be used to learn about these parameters and thereby to improve predictive capability. The purpose of the course is to describe the mathematical and algorithmic principles of this area. The topic lies at the intersection of fields including inverse problems, differential equations, machine learning and uncertainty quantification. Applications will be drawn from the physical, biological and data sciences.",
+        "offered": true,
+        "instructors": "Carlson",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/inverse-problems-and-data-assimilation",
+        "prereq_text": "Prerequisites: Basic differential equations, linear algebra, probability and statistics: ACM/IDS 104, ACM/EE 106 ab, ACM/EE/IDS 116, IDS/ACM/CS 157 or equivalent.",
+        "prereqs": [
+            "acmeeids-116",
+            "acmids-104",
+            "acmee-106-ab",
+            "idsacmcs-157"
+        ]
+    },
+    "idsacmcs-157": {
+        "id": "idsacmcs-157",
+        "course_id": "IDS/ACM/CS 157",
+        "name": "Statistical Inference",
+        "units": "9 units (3-2-4)",
+        "terms": "third term",
+        "description": "Statistical Inference is a branch of mathematical engineering that studies ways of extracting reliable information from limited data for learning, prediction, and decision making in the presence of uncertainty. This is an introductory course on statistical inference. The main goals are: develop statistical thinking and intuitive feel for the subject; introduce the most fundamental ideas, concepts, and methods of statistical inference; and explain how and why they work, and when they don't. Topics covered include summarizing data, fundamentals of survey sampling, statistical functionals, jackknife, bootstrap, methods of moments and maximum likelihood, hypothesis testing, p-values, the Wald, Student's t-, permutation, and likelihood ratio tests, multiple testing, scatterplots, simple linear regression, ordinary least squares, interval estimation, prediction, graphical residual analysis.",
+        "offered": true,
+        "instructors": "Zuev",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/statistical-inference",
+        "prereq_text": "Prerequisites: ACM/EE/IDS 116, Ma 3.",
+        "prereqs": [
+            "acmeeids-116",
+            "ma-3103"
+        ]
+    },
+    "idsacmcs-158": {
+        "id": "idsacmcs-158",
+        "course_id": "IDS/ACM/CS 158",
+        "name": "Fundamentals of Statistical Learning",
+        "units": "9 units (3-3-3)",
+        "terms": "second term",
+        "description": "The main goal of the course is to provide an introduction to the central concepts and core methods of statistical learning, an interdisciplinary field at the intersection of applied mathematics, statistical inference, and machine learning. The course focuses on the mathematics and statistics of methods developed for learning from data. Students will learn what methods for statistical learning exist, how and why they work (not just what tasks they solve and in what built-in functions they are implemented), and when they are expected to perform poorly. The course is oriented for upper level undergraduate students in IDS, ACM, and CS and graduate students from other disciplines who have sufficient background in linear algebra, probability, and statistics. The course is a natural continuation of IDS/ACM/CS 157 and it can be viewed as a statistical analog of CMS/CS/CNS/EE/IDS 155. Topics covered include elements of statistical decision theory, regression and classification problems, nearest-neighbor methods, curse of dimensionality, linear regression, model selection, cross-validation, subset selection, shrinkage methods, ridge regression, LASSO, logistic regression, linear and quadratic discriminant analysis, support-vector machines, tree-based methods, bagging, and random forests.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Zuev",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/fundamentals-of-statistical-learning",
+        "prereq_text": "Prerequisites: ACM/IDS 104, ACM/EE/IDS 116, IDS/ACM/CS 157.",
+        "prereqs": [
+            "acmeeids-116",
+            "acmids-104",
+            "idsacmcs-157"
+        ]
+    },
+    "acmeeids-170": {
+        "id": "acmeeids-170",
+        "course_id": "ACM/EE/IDS 170",
+        "name": "Mathematics of Signal Processing",
+        "units": "12 units (3-0-9)",
+        "terms": "third term",
+        "description": "This course covers classical and modern approaches to problems in signal processing. Problems may include denoising, deconvolution, spectral estimation, direction-of-arrival estimation, array processing, independent component analysis, system identification, filter design, and transform coding. Methods rely heavily on linear algebra, convex optimization, and stochastic modeling. In particular, the class will cover techniques based on least-squares and on sparse modeling. Throughout the course, a computational viewpoint will be emphasized.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Hassibi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/mathematics-of-signal-processing",
+        "prereq_text": "Prerequisites: ACM/IDS 104, CMS/ACM/EE 122, and ACM/EE/IDS 116; or instructor's permission.",
+        "prereqs": [
+            "cmsacmee-122",
+            "acmids-104",
+            "acmeeids-116"
+        ]
+    },
+    "csacm-177-ab": {
+        "id": "csacm-177-ab",
+        "course_id": "CS/ACM 177 ab",
+        "name": "Discrete Differential Geometry: Theory and Applications",
+        "units": "9 units (3-3-3)",
+        "terms": "second term",
+        "description": "Working knowledge of multivariate calculus and linear algebra as well as fluency in some implementation language is expected. Subject matter covered: differential geometry of curves and surfaces, classical exterior calculus, discrete exterior calculus, sampling and reconstruction of differential forms, low dimensional algebraic and computational topology, Morse theory, Noether's theorem, Helmholtz-Hodge decomposition, structure preserving time integration, connections and their curvatures on complex line bundles. Applications include elastica and rods, surface parameterization, conformal surface deformations, computation of geodesics, tangent vector field design, connections, discrete thin shells, fluids, electromagnetism, and elasticity.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/discrete-differential-geometry:-theory-and-applications",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "acmids-180-ab": {
+        "id": "acmids-180-ab",
+        "course_id": "ACM/IDS 180 ab",
+        "name": "Multiscale Modeling",
+        "units": "12 units (3-0-9)",
+        "terms": "first, third terms",
+        "description": "Part a: Multiscale methodology for partial differential equations (PDEs) and for stochastic differential equations (SDEs). Basic theory of underlying PDEs; basic theory of Gaussian processes; basic theory of SDEs; multiscale expansions. Part b: Transition from quantum to continuum modeling of materials. Schrodinger equation and semi-classical limit; molecular dynamics and kinetic theory; kinetic theory, Boltzmann equation and continuum mechanics.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/multiscale-modeling",
+        "prereq_text": "Prerequisites: CMS 107, CMS 117 or explicit email permission from instructor.",
+        "prereqs": []
+    },
+    "acm-190": {
+        "id": "acm-190",
+        "course_id": "ACM 190",
+        "name": "Reading and Independent Study",
+        "units": "",
+        "terms": "",
+        "description": "Graded pass/fail only.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/reading-and-independent-study",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "acm-201": {
+        "id": "acm-201",
+        "course_id": "ACM 201",
+        "name": "Partial Differential Equations",
+        "units": "12 units (4-0-8)",
+        "terms": "first term",
+        "description": "This course offers an introduction to the theory of Partial Differential Equations (PDEs) commonly encountered across mathematics, engineering and science. The goal of the course is to study properties of different classes of linear and nonlinear PDEs (elliptic, parabolic and hyperbolic) and the behavior of their solutions using tools from functional analysis with an emphasis on applications. We will discuss representative models from different areas such as: heat equation, wave equation, advection-reaction-diffusion equation, conservation laws, shocks, predator prey models, Burger's equation, kinetic equations, gradient flows, transport equations, integral equations, Helmholtz and Schr\u00f6dinger equations and Stoke's flow. In this course you will use analytical tools such as Gauss's theorem, Green's functions, weak solutions, existence and uniqueness theory, Sobolev spaces, well-posedness theory, asymptotic analysis, Fredholm theory, Fourier transforms and spectral theory. More advanced topics include: Perron's method, applications to irrotational flow, elasticity, electrostatics, special solutions, vibrations, Huygens' principle, Eikonal equations, spherical means, retarded potentials, water waves, various approximations, dispersion relations, Maxwell equations, gas dynamics, Riemann problems, single- and double-layer potentials, Navier-Stokes equations, Reynolds number, potential flow, boundary layer theory, subsonic, supersonic and transonic flow.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/partial-differential-equations",
+        "prereq_text": "Prerequisites: ACM 95/100 ab, ACM/IDS 101 ab, ACM 11 or equivalent.",
+        "prereqs": [
+            "acm-95100-ab",
+            "acmids-101-ab",
+            "acm-11"
+        ]
+    },
+    "acmids-204": {
+        "id": "acmids-204",
+        "course_id": "ACM/IDS 204",
+        "name": "Topics in Linear Algebra and Convexity",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "The content of this course varies from year to year among advanced subjects in linear algebra, convex analysis, and related fields. Specific topics for the class include matrix analysis, operator theory, convex geometry, or convex algebraic geometry. Lectures and homework will require the ability to understand and produce mathematical proofs.\n Offered 2024-25.",
+        "offered": true,
+        "instructors": "Tropp",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/topics-in-linear-algebra-and-convexity",
+        "prereq_text": "Prerequisites: CMS 107a and CMS/ACM 122; or instructor's permission.",
+        "prereqs": []
+    },
+    "acm-206": {
+        "id": "acm-206",
+        "course_id": "ACM 206",
+        "name": "Topics in Computational Mathematics",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "This course provides an introduction to Monte Carlo methods with applications in Bayesian computing and rare event sampling. Topics include Markov chain Monte Carlo (MCMC), Gibbs samplers, Langevin samplers, MCMC for infinite-dimensional problems, convergence of MCMC, parallel tempering, umbrella sampling, forward flux sampling, and sequential Monte Carlo. Emphasis is placed both on rigorous mathematical development and on practical coding experience.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Tropp",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/topics-in-computational-mathematics",
+        "prereq_text": "Prerequisites: ACM 106 ab; linear algebra at the level of ACM 104 or ACM 107; probability theory at the level of ACM 116 or ACM 117; some programming experience.",
+        "prereqs": [
+            "cmsacm-117"
+        ]
+    },
+    "acm-210": {
+        "id": "acm-210",
+        "course_id": "ACM 210",
+        "name": "Numerical Methods for PDEs",
+        "units": "9 units (3-0-6)",
+        "terms": "third terms",
+        "description": "Finite difference and finite volume methods for hyperbolic problems. Stability and error analysis of nonoscillatory numerical schemes: i) linear convection: Lax equivalence theorem, consistency, stability, convergence, truncation error, CFL condition, Fourier stability analysis, von Neumann condition, maximum principle, amplitude and phase errors, group velocity, modified equation analysis, Fourier and eigenvalue stability of systems, spectra and pseudospectra of nonnormal matrices, Kreiss matrix theorem, boundary condition analysis, group velocity and GKS normal mode analysis; ii) conservation laws: weak solutions, entropy conditions, Riemann problems, shocks, contacts, rarefactions, discrete conservation, Lax-Wendroff theorem, Godunov's method, Roe's linearization, TVD schemes, high-resolution schemes, flux and slope limiters, systems and multiple dimensions, characteristic boundary conditions; iii) adjoint equations: sensitivity analysis, boundary conditions, optimal shape design, error analysis. Interface problems, level set methods for multiphase flows, boundary integral methods, fast summation algorithms, stability issues. Spectral methods: Fourier spectral methods on infinite and periodic domains. Chebyshev spectral methods on finite domains. Spectral element methods and h-p refinement. Multiscale finite element methods for elliptic problems with multiscale coefficients.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/numerical-methods-for-pdes",
+        "prereq_text": "Prerequisites: ACM 11, 106 or instructor's permission.",
+        "prereqs": [
+            "acm-11"
+        ]
+    },
+    "acmids-213": {
+        "id": "acmids-213",
+        "course_id": "ACM/IDS 213",
+        "name": "Topics in Optimization",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Material varies year-to-year. Example topics include discrete optimization, convex and computational algebraic geometry, numerical methods for large-scale optimization, and convex geometry.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/topics-in-optimization",
+        "prereq_text": "Prerequisites: ACM/IDS 104, CMS/ACM/EE 122.",
+        "prereqs": [
+            "cmsacmee-122",
+            "acmids-104"
+        ]
+    },
+    "acmids-216": {
+        "id": "acmids-216",
+        "course_id": "ACM/IDS 216",
+        "name": "Markov Chains, Discrete Stochastic Processes and Applications",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Stable laws, Markov chains, classification of states, ergodicity, von Neumann ergodic theorem, mixing rate, stationary/equilibrium distributions and convergence of Markov chains, Markov chain Monte Carlo and its applications to scientific computing, Metropolis Hastings algorithm, coupling from the past, martingale theory and discrete time martingales, rare events, law of large deviations, Chernoff bounds.",
+        "offered": true,
+        "instructors": "Owhadi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/markov-chains,-discrete-stochastic-processes-and-applications",
+        "prereq_text": "Prerequisites: ACM/EE/IDS 116 or equivalent.",
+        "prereqs": [
+            "acmeeids-116"
+        ]
+    },
+    "acm-217": {
+        "id": "acm-217",
+        "course_id": "ACM 217",
+        "name": "Advanced Topics in Probability",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Topic varies by year. 2023-24: Random matrix theory. This class introduces some fundamental random matrix models with applications in computational mathematics, statistics, signal processing, algorithms, and other areas. The focus is on finite-dimensional examples and comparisons with ideal models. Specific topics may include the independent sum model, matrix concentration inequalities, geometric random matrix theory, classical ensembles and their limiting spectral properties, universality laws, and free probability. Lectures and homework will require the ability to understand and produce mathematical proofs.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Tropp",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/advanced-topics-in-probability",
+        "prereq_text": "Prerequisites: CMS 107a and CMS/ACM 117; or instructor's permission.",
+        "prereqs": [
+            "cmsacm-117"
+        ]
+    },
+    "aeacmme-232-ab": {
+        "id": "aeacmme-232-ab",
+        "course_id": "Ae/ACM/ME 232 ab",
+        "name": "Computational Fluid Dynamics",
+        "units": "9 units (3-0-6)",
+        "terms": "second, third terms",
+        "description": "Development and analysis of algorithms used in the solution of fluid mechanics problems. Numerical analysis of discretization schemes for partial differential equations including interpolation, integration, spatial discretization, systems of ordinary differential equations; stability, accuracy, aliasing, Gibbs and Runge phenomena, numerical dissipation and dispersion; boundary conditions. Survey of finite difference, finite element, finite volume and spectral approximations for the numerical solution of the incompressible and compressible Euler and Navier-Stokes equations, including shock-capturing methods.",
+        "offered": true,
+        "instructors": "Bae, Meiron",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/computational-fluid-dynamics",
+        "prereq_text": "Prerequisites: Ae/APh/CE/ME 101 abc or equivalent; ACM 100 ab or equivalent; ACM 104.",
+        "prereqs": [
+            "aeaphceme-101-abc"
+        ]
+    },
+    "acm-256": {
+        "id": "acm-256",
+        "course_id": "ACM 256",
+        "name": "Special Topics in Applied Mathematics",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Measure transport is a rich mathematical topic at the intersection of analysis, probability and optimization. The core idea behind this theory is to rearrange the mass of a reference measure to match a target measure. In particular, optimal transport seeks a rearrangement that transports mass with minimal cost. The theory of optimal transport dates back to Monge in 1781, with significant advancements by Kantorovich in 1942 and later in the '90s, e.g. by Brenier. In recent years, measure transport has become an indispensable tool for representing probability distributions and for defining measures of similarity between distributions. These methods enjoy applications in image retrieval, signal and image representation, inverse problems, cancer detection, texture and color modelling, shape and image registration, and machine learning, to name a few. This class will introduce the foundations of measure transport, present its connections and applications in various fields, and lastly explore modern computational methods for finding discrete and continuous transport maps, e.g. Sinkhorn's algorithm and normalizing flows.",
+        "offered": true,
+        "instructors": "Hoffmann",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/special-topics-in-applied-mathematics",
+        "prereq_text": "Prerequisites: Familiarity with analysis and probability, e.g. ACM 105 and ACM 116 is desired.",
+        "prereqs": []
+    },
+    "acm-257": {
+        "id": "acm-257",
+        "course_id": "ACM 257",
+        "name": "Special Topics in Financial Mathematics",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "A basic knowledge of probability and statistics as well as transform methods for solving PDEs is assumed. This course develops some of the techniques of stochastic calculus and applies them to the theory of financial asset modeling. The mathematical concepts/tools developed will include introductions to random walks, Brownian motion, quadratic variation, and Ito-calculus. Connections to PDEs will be made by Feynman-Kac theorems. Concepts of risk-neutral pricing and martingale representation are introduced in the pricing of options. Topics covered will be selected from standard options, exotic options, American derivative securities, term-structure models, and jump processes.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/special-topics-in-financial-mathematics",
+        "prereq_text": "Prerequisites: ACM 95/100 or instructor's permission.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "acm-270": {
+        "id": "acm-270",
+        "course_id": "ACM 270",
+        "name": "Advanced Topics in Applied and Computational Mathematics",
+        "units": "Hours and units by arrangement",
+        "terms": "first, second, third terms",
+        "description": "Advanced topics in applied and computational mathematics that will vary according to student and instructor interest. May be repeated for credit.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/advanced-topics-in-applied-and-computational-mathematics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "acm-300": {
+        "id": "acm-300",
+        "course_id": "ACM 300",
+        "name": "Research in Applied and Computational Mathematics",
+        "units": "",
+        "terms": "",
+        "description": "",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/acm/research-in-applied-and-computational-mathematics",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

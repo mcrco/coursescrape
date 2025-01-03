@@ -1,0 +1,666 @@
+{
+    "aphee-9": {
+        "id": "aphee-9",
+        "course_id": "APh/EE 9",
+        "name": "Solid-State Electronics for Integrated Circuits",
+        "units": "6 units (2-2-2)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Scherer",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/solid-state-electronics-for-integrated-circuits",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aph-17-abc": {
+        "id": "aph-17-abc",
+        "course_id": "APh 17 abc",
+        "name": "Thermodynamics",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Introduction to the use of thermodynamics and statistical mechanics in physics and engineering. Entropy, temperature, and the principal laws of thermodynamics. Canonical equations of state. Applications to cycles, engines, phase and chemical equilibria. Probability and stochastic processes. Kinetic theory of perfect gases. Statistical mechanics. Applications to gases, gas degeneration, equilibrium radiation, and simple solids.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/thermodynamics",
+        "prereq_text": "Prerequisites: Ma 1 abc, Ph 1 abc.",
+        "prereqs": [
+            "ph-1-abc",
+            "ma-1-d",
+            "ma-1-abc"
+        ]
+    },
+    "aphee-23": {
+        "id": "aphee-23",
+        "course_id": "APh/EE 23",
+        "name": "Demonstration Lectures in Classical and Quantum Photonics",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This course focuses on basic concepts needed for understanding classical and quantum optical phenomena and their applications to modern optical components and systems. Classical optical phenomena including interference, dispersion, birefringence, diffraction, laser oscillation, and the applications of these phenomena in optical systems employing multiple-beam interferometry, Fourier-transform image processing, holography, electro-optic modulation, optical detection and heterodyning will be covered. Quantum optical phenomena like single photon emission will be discussed. Examples and demonstrations will be selected from optical communications, lidar, adaptive optical systems, nano-photonic devices and quantum communications. Visits to research laboratories in optics are expected at the end of the course. This class is optimal for sophomores/juniors/seniors who want to get their first serious exposure to optics but also might work for well-prepared and motivated First-Year students.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/demonstration-lectures-in-classical-and-quantum-photonics",
+        "prereq_text": "Prerequisites: Ph 1 abc is required; a class on waves (Ph2a or Ph12a) is strongly encouraged but not required; prior knowledge of quantum mechanics is not required..",
+        "prereqs": [
+            "ph-1-abc"
+        ]
+    },
+    "aphee-24": {
+        "id": "aphee-24",
+        "course_id": "APh/EE 24",
+        "name": "Introductory Optics and Photonics Laboratory",
+        "units": "9 units (1-3-5)",
+        "terms": "third term",
+        "description": "Laboratory experiments to acquaint students with the basic aspects of Optics and Photonics Research and Technology. This course offers hands-on experience and teaches students how to handle major optical and electronic equipment and conduct experiments. It is useful for those who are thinking about a career utilizing both optical and electronic tools. Experiments encompass some of the topics and concepts covered in APh 23.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/introductory-optics-and-photonics-laboratory",
+        "prereq_text": "Prerequisites: Ph 1 abc is required; APh 23 and a class on waves (Ph2a or Ph12a) are strongly encouraged but not required.",
+        "prereqs": [
+            "ph-1-abc"
+        ]
+    },
+    "eeaph-40": {
+        "id": "eeaph-40",
+        "course_id": "EE/APh 40",
+        "name": "Physics of Electrical Engineering",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This course provides an introduction to the fundamental physics of modern device technologies in electrical engineering used for sensing, communications, computing, imaging, and displays. The course overviews topics including semiconductor physics, quantum mechanics, electromagnetics, and optics with emphasis on physical operation principles of devices. Example technologies include integrated circuits, optical and wireless communications, micromechanical systems, lasers, high-resolution displays, LED lighting, and imaging.",
+        "offered": true,
+        "instructors": "Marandi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/physics-of-electrical-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aph-77-bc": {
+        "id": "aph-77-bc",
+        "course_id": "APh 77 bc",
+        "name": "Laboratory in Applied Physics",
+        "units": "9 units (0-9-0)",
+        "terms": "second, third terms",
+        "description": "Selected experiments chosen to familiarize students with laboratory equipment, procedures, and characteristic phenomena in plasmas, fluid turbulence, fiber optics, X-ray diffraction, microwaves, high-temperature superconductivity, black-body radiation, holography, and computer interfacing of experiments.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/laboratory-in-applied-physics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aph-78-abc": {
+        "id": "aph-78-abc",
+        "course_id": "APh 78 abc",
+        "name": "Senior Thesis, Experimental",
+        "units": "9 units (0-9-0)",
+        "terms": "first, second, third terms",
+        "description": "Supervised experimental research, open only to senior-class applied physics majors. Requirements will be set by individual faculty member, but must include a written report. The selection of topic must be approved by the Applied Physics Option Representative. Not offered on a pass/fail basis. Final grade based on written thesis and oral exam.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/senior-thesis,-experimental",
+        "prereq_text": "Prerequisites: instructor's permission.",
+        "prereqs": []
+    },
+    "aph-79-abc": {
+        "id": "aph-79-abc",
+        "course_id": "APh 79 abc",
+        "name": "Senior Thesis, Theoretical",
+        "units": "9 units (0-9-0)",
+        "terms": "first, second, third terms",
+        "description": "Supervised theoretical research, open only to senior-class applied physics majors. Requirements will be set by individual faculty member, but must include a written report. The selection of topic must be approved by the Applied Physics Option Representative. Not offered on a pass/fail basis. Final grade based on written thesis and oral exam. This course cannot be used to satisfy the laboratory requirement in APh.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/senior-thesis,-theoretical",
+        "prereq_text": "Prerequisites: instructor's permission.",
+        "prereqs": []
+    },
+    "aph-100": {
+        "id": "aph-100",
+        "course_id": "APh 100",
+        "name": "Advanced Work in Applied Physics",
+        "units": "",
+        "terms": "",
+        "description": "Special problems relating to applied physics, arranged to meet the needs of students wishing to do advanced work. Primarily for undergraduates. Students should consult with their advisers before registering. Graded pass/fail.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/advanced-work-in-applied-physics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aeaphceme-101-abc": {
+        "id": "aeaphceme-101-abc",
+        "course_id": "Ae/APh/CE/ME 101 abc",
+        "name": "Fluid Mechanics",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Fundamentals of fluid mechanics. Microscopic and macroscopic properties of liquids and gases; the continuum hypothesis; review of thermodynamics; general equations of motion; kinematics; stresses; constitutive relations; vorticity, circulation; Bernoulli's equation; potential flow; thin-airfoil theory; surface gravity waves; buoyancy-driven flows; rotating flows; viscous creeping flow; viscous boundary layers; introduction to stability and turbulence; quasi one-dimensional compressible flow; shock waves; unsteady compressible flow; and acoustics.",
+        "offered": true,
+        "instructors": "Bae, Pullin, Colonius",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/fluid-mechanics",
+        "prereq_text": "Prerequisites: APh 17 or ME 11 abc, and ME 12 or equivalent, ACM 95/100 or equivalent (may be taken concurrently).",
+        "prereqs": [
+            "me-12-abc",
+            "acm-95100-ab",
+            "me-11-abc",
+            "aph-17-abc"
+        ]
+    },
+    "aeaph-104-abc": {
+        "id": "aeaph-104-abc",
+        "course_id": "Ae/APh 104 abc",
+        "name": "Experimental Methods",
+        "units": "9 units (3-0-6) first term; (0-6-3) second, third terms",
+        "terms": "first, second, third terms",
+        "description": "Lectures on experiment design and implementation. Measurement methods, transducer fundamentals, instrumentation, optical systems, signal processing, noise theory, analog and digital electronic fundamentals, with data acquisition and processing systems. Experiments (second and third terms) in solid and fluid mechanics with emphasis on current research methods.",
+        "offered": true,
+        "instructors": "Dabiri",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/experimental-methods",
+        "prereq_text": "Prerequisites: ACM 95/100 ab or equivalent (may be taken concurrently), Ae/APh/CE/ME 101 abc or equivalent (may be taken concurrently).",
+        "prereqs": [
+            "acm-95100-ab",
+            "aeaphceme-101-abc"
+        ]
+    },
+    "aphmsme-105-abc": {
+        "id": "aphmsme-105-abc",
+        "course_id": "APh/MS/ME 105 abc",
+        "name": "States of Matter",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Thermodynamics and statistical mechanics, with emphasis on gases, liquids, materials, and condensed matter. Effects of heat, pressure, and fields on states of matter are presented with both classical thermodynamics and with statistical mechanics. Conditions of equilibrium in systems with multiple degrees of freedom. Applications include ordered states of matter and phase transitions. The three terms cover, approximately, thermodynamics, statistical mechanics, and phase transitions.",
+        "offered": true,
+        "instructors": "Minnich, Troian, Falson",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/states-of-matter",
+        "prereq_text": "Prerequisites: APh 17 abc or equivalent.",
+        "prereqs": [
+            "aph-17-abc"
+        ]
+    },
+    "aphee-109": {
+        "id": "aphee-109",
+        "course_id": "APh/EE 109",
+        "name": "Introduction to the Micro/Nanofabrication Lab",
+        "units": "9 units (0-6-3)",
+        "terms": "first, second, third terms",
+        "description": "Introduction to techniques of micro-and nanofabrication, including solid-state, optical, and microfluidic devices. Students will be trained to use fabrication and characterization equipment available in the applied physics micro- and nanofabrication lab. Topics include Schottky diodes, MOS capacitors, light-emitting diodes, microlenses, microfluidic valves and pumps, atomic force microscopy, scanning electron microscopy, and electron-beam writing.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/introduction-to-the-micro/nanofabrication-lab",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aph-110": {
+        "id": "aph-110",
+        "course_id": "APh 110",
+        "name": "Topics in Applied Physics",
+        "units": "2 units (2-0-0)",
+        "terms": "first, second terms",
+        "description": "A seminar course designed to acquaint advanced undergraduates and first-year graduate students with the various research areas represented in the option. Lecture each week given by a different member of the APh faculty, who will review their field of research. Graded pass/fail.",
+        "offered": true,
+        "instructors": "Bellan",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/topics-in-applied-physics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphph-112": {
+        "id": "aphph-112",
+        "course_id": "APh/Ph 112",
+        "name": "Stochastic Resonance Phenomena and the Essential Role of Noise",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Noise is often regarded as a nuisance. In experimental systems, it diminishes signal to noise ratio and obfuscates patterns and weak signals. In theoretical systems, it requires modelling by stochastic differential equations, whose solutions can be analytically intractable except for the simplest of Gaussian processes. Research on classical and quantum systems has revealed, however, that noise is essential when boosting hidden signatures by the phenomenon known as stochastic resonance. Many different methods proposed for inducing stochastic resonance are now revolutionizing measurement and modeling in fields as wide ranging as nonlinear optics and photonics, quantum communication, SQUID devices, neurophysiology, hydrodynamics, climate research and finance. This course, designed to appeal to theorists and experimentalists alike, is conducted in survey and seminar style. Review of the current literature will be complimented by lectures and readings focused on statistical physics and stochastic processes.",
+        "offered": true,
+        "instructors": "Troian",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/stochastic-resonance-phenomena-and-the-essential-role-of-noise",
+        "prereq_text": "Prerequisites: Ph 12 abc, ACM 95/100 ab and Ph 106 abc, equivalent background, or instructor's permission.",
+        "prereqs": [
+            "ph-106-abc",
+            "acm-95100-ab",
+            "ph-12-abc"
+        ]
+    },
+    "aph-114-abc": {
+        "id": "aph-114-abc",
+        "course_id": "APh 114 abc",
+        "name": "Solid-State Physics",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Introductory lecture and problem course dealing with experimental and theoretical problems in solid-state physics. Topics include crystal structure, symmetries in solids, lattice vibrations, electronic states in solids, transport phenomena, semiconductors, superconductivity, magnetism, ferroelectricity, defects, and optical phenomena in solids.",
+        "offered": true,
+        "instructors": "Nadj-Perge, Schwab",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/solid-state-physics",
+        "prereq_text": "Prerequisites: Ph 125 abc or equivalent.",
+        "prereqs": [
+            "ph-125-abc"
+        ]
+    },
+    "phapheebe-118-ab": {
+        "id": "phapheebe-118-ab",
+        "course_id": "Ph/APh/EE/BE 118 ab",
+        "name": "Physics of Measurement",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This course explores the fundamental underpinnings of experimental measurements from the perspectives of information, noise, coupling, responsivity, and backaction. Its overarching goal is to enable students to develop intuition about a diversity of real measurement systems and the means to critically evaluate them. This involves developing a standard framework for estimating the ultimate and practical limits to information that can be extracted from a real measurement system. Topics will include the fundamental nature of information and signals, physical signal transduction and responsivity, the physical origin of noise processes, modulation, frequency conversion, synchronous detection, signal-sampling techniques, digitization, signal transforms, spectral analyses, and correlation methods. The first term will cover the essential underpinnings, while second-term topics will vary year-by-year according to interest. Among possible Ph 118 b topics are: high frequency, microwave, and fast time-domain measurements; biological interfaces and biosensing; the physics of functional brain imaging; and quantum measurement.\n Part b not offered 2024-25.",
+        "offered": true,
+        "instructors": "Roukes",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/physics-of-measurement",
+        "prereq_text": "Prerequisites: Ph 127, APh 105, or equivalent, or permission from instructor.",
+        "prereqs": [
+            "ph-127-ab",
+            "ph-105"
+        ]
+    },
+    "phaphee-118-c": {
+        "id": "phaphee-118-c",
+        "course_id": "Ph/APh/EE 118 c",
+        "name": "Physics of Measurement: Moonbounce and Beyond - Microwave Scattering for Communications and Metrology",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "",
+        "offered": true,
+        "instructors": "Roukes",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/physics-of-measurement:-moonbounce-and-beyond---microwave-scattering-for-communications-and-metrology",
+        "prereq_text": "Prerequisites: Ph 118a, and a course in microwave physics and engineering (e.g., Ph 118b, EE 153, or equivalent), or permission from the instructor.",
+        "prereqs": [
+            "ee-153"
+        ]
+    },
+    "aph-119": {
+        "id": "aph-119",
+        "course_id": "APh 119",
+        "name": "Nanofabrication Techniques",
+        "units": "6 units (1-4-1)",
+        "terms": "third term",
+        "description": "This laboratory/lecture course will enable students to become proficient in micro- and nanofabrication and get trained on most of the instruments in Caltech\u2019s Kavli Nanoscience Institute cleanroom. Students will learn the capabilities and limitations of nanofabrication equipment, followed by training on these nanofabrication instruments in the KNI cleanroom facility.",
+        "offered": true,
+        "instructors": "Scherer",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/nanofabrication-techniques",
+        "prereq_text": "Prerequisites: students are encouraged to take APh/EE 9 or APh/EE 109 ahead of this class, but these are not required.",
+        "prereqs": [
+            "aphee-109",
+            "aphee-9"
+        ]
+    },
+    "eeaph-120": {
+        "id": "eeaph-120",
+        "course_id": "EE/APh 120",
+        "name": "Physical Optics",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Mirhosseini",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/physical-optics",
+        "prereq_text": "Prerequisites: Intermediate-level familiarity with Fourier transforms and linear systems analysis. Basic understanding of Maxwell's electromagnetic theory (EE/APh 40 and EE 44, or equivalent).",
+        "prereqs": [
+            "ee-44",
+            "eeaph-40"
+        ]
+    },
+    "msaph-122": {
+        "id": "msaph-122",
+        "course_id": "MS/APh 122",
+        "name": "Diffraction, Imaging, and Structure",
+        "units": "9 units (0-4-5)",
+        "terms": "second term",
+        "description": "Experimental methods in transmission electron microscopy of inorganic materials including diffraction, spectroscopy, conventional imaging, high resolution imaging and sample preparation. Weekly laboratory exercises to complement material in MS 132.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/diffraction,-imaging,-and-structure",
+        "prereq_text": "Prerequisites: MS 132, may be taken concurrently.",
+        "prereqs": []
+    },
+    "eeaph-123": {
+        "id": "eeaph-123",
+        "course_id": "EE/APh 123",
+        "name": "Advanced Lasers and Photonics Laboratory",
+        "units": "9 units (1-3-5)",
+        "terms": "first term",
+        "description": "This course focuses on hands-on experience with advanced techniques related to lasers, optics, and photonics. Students have the opportunity to build and run several experiments and analyze data. Covered topics include laser-based microscopy, spectroscopy, nonlinear optics, quantum optics, ultrafast optics, adaptive optics, and integrated photonics. Limited enrollment.",
+        "offered": true,
+        "instructors": "Marandi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/advanced-lasers-and-photonics-laboratory",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphee-130": {
+        "id": "aphee-130",
+        "course_id": "APh/EE 130",
+        "name": "Electromagnetic Theory for Photonic Devices",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Faraon",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/electromagnetic-theory-for-photonic-devices",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphee-131": {
+        "id": "aphee-131",
+        "course_id": "APh/EE 131",
+        "name": "Light Interaction with Atomic Systems-Lasers",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Light-matter interaction, spontaneous and induced transitions in atoms and semiconductors. Absorption, amplification, and dispersion of light in atomic media. Principles of laser oscillation, generic types of lasers including semiconductor lasers, mode-locked lasers. Frequency combs in lasers. The spectral properties and coherence of laser light.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Vahala",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/light-interaction-with-atomic-systems-lasers",
+        "prereq_text": "Prerequisites: APh/EE 130.",
+        "prereqs": [
+            "aphee-130"
+        ]
+    },
+    "aphee-132": {
+        "id": "aphee-132",
+        "course_id": "APh/EE 132",
+        "name": "Special Topics in Photonics and Optoelectronics",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Interaction of light and matter, spontaneous and stimulated emission, laser rate equations, mode-locking, Q-switching, semiconductor lasers. Optical detectors and amplifiers; noise characterization of optoelectronic devices. Propagation of light in crystals, electro-optic effects and their use in modulation of light; introduction to nonlinear optics. Optical properties of nanostructures.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/special-topics-in-photonics-and-optoelectronics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "phaph-137-abc": {
+        "id": "phaph-137-abc",
+        "course_id": "Ph/APh 137 abc",
+        "name": "Atoms and Photons",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "This course will provide an introduction to the interaction of atomic systems with photons. Each term can be taken independent of each other. The main emphasis is on laying the foundation for understanding current research that utilizes cold atoms and quantized light fields. First term: resonance phenomena, atomic structure, and the semi-classical interaction of atoms with static and oscillating electromagnetic fields. Techniques such as laser cooling/trapping, coherent manipulation and control of atomic systems. Second term: quantization of light fields, quantized light matter interaction, open system dynamics, entanglement, master equations, quantum jump formalism. Applications to cavity QED, optical lattices, and Rydberg arrays.\n Part b and part c not offered 2024-25.",
+        "offered": true,
+        "instructors": "Hutzler",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/atoms-and-photons",
+        "prereq_text": "Prerequisites: Ph 125 ab or equivalent, or instructor's permission.",
+        "prereqs": [
+            "ph-125-abc"
+        ]
+    },
+    "aphph-138-ab": {
+        "id": "aphph-138-ab",
+        "course_id": "APh/Ph 138 ab",
+        "name": "Quantum Hardware and Techniques",
+        "units": "9 units (3-0-6)",
+        "terms": "third term, a and b offered in alternating years",
+        "description": "This class covers multiple quantum technology platforms and related theoretical techniques, and will provide students with broad knowledge in quantum science and engineering. It will be split into modules covering various topics including solid state quantum bits, topological quantum matter, trapped atoms and ions, applications of near-term quantum computers, superconducting qubits. Topics will alternate from year to year.",
+        "offered": true,
+        "instructors": "Faraon, Nadj-Perge",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/quantum-hardware-and-techniques",
+        "prereq_text": "Prerequisites: Ph 125 abc or Ph 127 ab or Ph 137 ab or instructor's permission.",
+        "prereqs": [
+            "ph-127-ab",
+            "ph-125-abc",
+            "phaph-137-abc"
+        ]
+    },
+    "aphms-141": {
+        "id": "aphms-141",
+        "course_id": "APh/MS 141",
+        "name": "Introduction to Computational Methods for Science and Engineering",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "",
+        "offered": true,
+        "instructors": "Bernardi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/introduction-to-computational-methods-for-science-and-engineering",
+        "prereq_text": "Prerequisites: graduate standing or instructor's permission.",
+        "prereqs": []
+    },
+    "eeaph-149": {
+        "id": "eeaph-149",
+        "course_id": "EE/APh 149",
+        "name": "Frontiers of Nonlinear Photonics",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This course overviews recent advances in photonics with emphasis on devices and systems that utilize nonlinearities. A wide range of nonlinearities in the classical and quantum regimes is covered, including but not limited to second- and third-order nonlinear susceptibilities, Kerr, Raman, optomechanical, thermal, and multi-photon nonlinearities. A wide range of photonic platforms is also considered ranging from bulk to ultrafast and integrated photonics. The course includes an overview of the concepts as well as review and discussion of recent literature and advances in the field.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/frontiers-of-nonlinear-photonics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aph-150": {
+        "id": "aph-150",
+        "course_id": "APh 150",
+        "name": "Topics in Applied Physics",
+        "units": "",
+        "terms": "",
+        "description": "Content will vary from year to year, but at a level suitable for advanced undergraduate or beginning graduate students. Topics are chosen according to the interests of students and staff. Visiting faculty may present portions of this course.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/topics-in-applied-physics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphphms-152": {
+        "id": "aphphms-152",
+        "course_id": "APh/Ph/MS 152",
+        "name": "Fundamentals of Fluid Flow in Small Scale Systems",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Research efforts in many areas of applied science and engineering are increasingly focused on microsystems involving active or passive fluid flow confined to 1D, 2D or 3D platforms. Intrinsically large ratios of surface to volume can incur unusual surface forces and boundary effects essential to operation of microdevices for applications such as optofluidics, bioengineering, green energy harvesting and nanofilm lithography. This course offers a concise treatment of the fundamentals of fluidic behavior in small scale systems. Examples will be drawn from pulsatile, oscillatory and capillary flows, active and passive spreading of liquid dots and films, thermocapillary and electrowetting systems, and instabilities leading to self-sustaining patterns. Students must have working knowledge of vector calculus, ODEs, basic PDEs, and complex variables.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Troian",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/fundamentals-of-fluid-flow-in-small-scale-systems",
+        "prereq_text": "Prerequisites: ACM 95/100 ab or equivalent.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "aphphaems-153": {
+        "id": "aphphaems-153",
+        "course_id": "APh/Ph/Ae/MS 153",
+        "name": "Fundamentals of Energy and Mass Transport in Small Scale Systems",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "The design of instrumentation for cooling, sensing or measurement in microsystems requires special knowledge of the evolution and propagation of thermal and concentration gradients in confined geometries, which ultimately control the degree of maximum energy and mass exchange. A significant challenge facing the microelectronics industry, for example, is mitigation of hot spots in densely packed high power chips for artificial intelligence to prevent thermal runaway. This course offers a concise treatment of the fundamentals of mass and energy transport by examining steady and unsteady diffusive and convective processes in small confined systems. Contrasts with macroscale behavior caused by the effects of small scale confinement and reduced dimensionality will be examined. Sample problems will be drawn from systems in applied physics, material science, electrical and bioengineering. Students must have working knowledge of vector calculus, ODEs, basic PDEs, and complex variables.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Troian",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/fundamentals-of-energy-and-mass-transport-in-small-scale-systems",
+        "prereq_text": "Prerequisites: ACM 95/100 ab or equivalent.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "aph-156-abc": {
+        "id": "aph-156-abc",
+        "course_id": "APh 156 abc",
+        "name": "Plasma Physics",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "An introduction to the principles of plasma physics. A multitiered theoretical infrastructure will be developed consisting of the Hamilton-Lagrangian theory of charged particle motion in combined electric and magnetic fields, the Vlasov kinetic theory of plasma as a gas of interacting charged particles, the two-fluid model of plasma as interacting electron and ion fluids, and the magnetohydrodynamic model of plasma as an electrically conducting fluid subject to combined magnetic and hydrodynamic forces. This infrastructure will be used to examine waves, transport processes, equilibrium, stability, and topological self-organization. Examples relevant to plasmas in both laboratory (fusion, industrial) and space (magneto-sphere, solar) will be discussed.",
+        "offered": true,
+        "instructors": "Bellan",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/plasma-physics",
+        "prereq_text": "Prerequisites: Ph 106 abc or equivalent.",
+        "prereqs": [
+            "ph-106-abc"
+        ]
+    },
+    "eeaph-158": {
+        "id": "eeaph-158",
+        "course_id": "EE/APh 158",
+        "name": "Quantum Electrical Circuits",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Mirhosseini",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/quantum-electrical-circuits",
+        "prereq_text": "Prerequisites: advanced-level familiarity with Maxwell's electromagnetic theory and quantum mechanics (EE 151 and Ph 125 abc, or equivalent).",
+        "prereqs": [
+            "ph-125-abc",
+            "ee-151"
+        ]
+    },
+    "bebiaph-161": {
+        "id": "bebiaph-161",
+        "course_id": "BE/Bi/APh 161",
+        "name": "Physical Biology of the Cell",
+        "units": "12 units (3-0-9)",
+        "terms": "second term",
+        "description": "Physical models applied to the analysis of biological structures ranging from individual proteins and DNA to entire cells. Typical topics include the force response of proteins and DNA, models of molecular motors, DNA packing in viruses and eukaryotes, mechanics of membranes, and membrane proteins and cell motility.",
+        "offered": true,
+        "instructors": "Bois",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/physical-biology-of-the-cell",
+        "prereq_text": "Prerequisites: Ph 2 ab and ACM 95/100 ab,or background in differential equations and statistical and quantum mechanics, or instructor's written permission..",
+        "prereqs": [
+            "ph-2-abc",
+            "acm-95100-ab"
+        ]
+    },
+    "msaph-162": {
+        "id": "msaph-162",
+        "course_id": "MS/APh 162",
+        "name": "Electronic Structure of Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Falson",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/electronic-structure-of-materials",
+        "prereq_text": "Prerequisites: APh 114a (or equivalent solid-state physics), or MS131 strongly recommended.",
+        "prereqs": [
+            "aph-114-abc"
+        ]
+    },
+    "msaph-171": {
+        "id": "msaph-171",
+        "course_id": "MS/APh 171",
+        "name": "Inelastic Scattering of Materials, Molecules, and Condensed Matter",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "",
+        "offered": true,
+        "instructors": "Fultz",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/inelastic-scattering-of-materials,-molecules,-and-condensed-matter",
+        "prereq_text": "Prerequisites: EE/APh 131 or MS 132 or equivalent.",
+        "prereqs": []
+    },
+    "eeaph-180": {
+        "id": "eeaph-180",
+        "course_id": "EE/APh 180",
+        "name": "Nanotechnology",
+        "units": "6 units (3-0-3)",
+        "terms": "first term",
+        "description": "This course will explore the techniques and applications of nanofabrication and miniaturization of devices to the smallest scale. It will be focused on the understanding of the technology of miniaturization, its history and present trends towards building devices and structures on the nanometer scale. Technology and instrumentation for nanofabrication as well as future trends will be described. Examples of applications of nanotechnology in the electronics, communications, data storage, sensing and biotechnology will be analyzed. Students will understand the underlying physics and technology, as well as limitations of miniaturization.",
+        "offered": true,
+        "instructors": "Scherer",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/nanotechnology",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphee-183": {
+        "id": "aphee-183",
+        "course_id": "APh/EE 183",
+        "name": "Physics of Semiconductors and Semiconductor Devices",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Principles of semiconductor electronic structure, carrier transport properties, and optoelectronic properties relevant to semiconductor device physics. Fundamental performance aspects of basic and advanced semiconductor electronic and optoelectronic devices. Topics include energy band theory, carrier generation and recombination mechanisms, quasi-Fermi levels, carrier drift and diffusion transport, quantum transport.",
+        "offered": true,
+        "instructors": "Nadj-Perge",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/physics-of-semiconductors-and-semiconductor-devices",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphee-190-abc": {
+        "id": "aphee-190-abc",
+        "course_id": "APh/EE 190 abc",
+        "name": "Quantum Electronics",
+        "units": "9 units (3-0-6)",
+        "terms": "second, third terms",
+        "description": "Generation, manipulations, propagation, and applications of coherent radiation. The basic theory of the interaction of electromagnetic radiation with resonant atomic transitions. Laser oscillation, important laser media, Gaussian beam modes, the electro-optic effect, nonlinear-optics theory, second harmonic generation, parametric oscillation, stimulated Brillouin and Raman scattering. Other topics include light modulation, diffraction of light by sound, integrated optics, phase conjugate optics, and quantum noise theory.\n Part c not offered 2024-25.",
+        "offered": true,
+        "instructors": "Vahala",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/quantum-electronics",
+        "prereq_text": "Prerequisites: Ph 125 or equivalent.",
+        "prereqs": [
+            "ph-125-abc"
+        ]
+    },
+    "aph-200": {
+        "id": "aph-200",
+        "course_id": "APh 200",
+        "name": "Applied Physics Research",
+        "units": "",
+        "terms": "",
+        "description": "Offered to graduate students in applied physics for research or reading. Students should consult their advisers before registering. Graded pass/fail.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/applied-physics-research",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aemeaph-218": {
+        "id": "aemeaph-218",
+        "course_id": "Ae/ME/APh 218",
+        "name": "Statistical Mechanics",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Overview of probability and statistics, and the Maxwell-Boltzmann distribution. Overview and elements of Quantum Mechanics, degenerate energy states, particles in a box, and energy-state phase space. Statistics of indistinguishable elementary particles, Fermi-Dirac and Bose-Einstein statistics, partition functions, connections with classical thermodynamics, and the Law of Equipartition. Examples from equilibrium in fluids, solid-state physics, and others.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/statistical-mechanics",
+        "prereq_text": "Prerequisites: Ae/ME 118, or equivalent.",
+        "prereqs": [
+            "aeme-118"
+        ]
+    },
+    "phaph-223-ab": {
+        "id": "phaph-223-ab",
+        "course_id": "Ph/APh 223 ab",
+        "name": "Advanced Condensed-Matter Physics",
+        "units": "9 units (3-0-6)",
+        "terms": "second, third terms",
+        "description": "Advanced topics in condensed-matter physics, with emphasis on the effects of interactions, symmetry, and topology in many-body systems. Ph/APh 223 a covers second quantization, Hartree-Fock theory of the electron gas, Mott insulators and quantum magnetism, spin liquids, bosonization, and the integer and fractional quantum Hall effect. Ph/APh 223 b continues with superfluidity and superconductivity; topics include the Bose-Hubbard model, Ginzburg-Landau theory, BCS theory, tunneling signatures of superconductivity, Josephson junctions, superconducting qubits, and topological superconductivity.",
+        "offered": true,
+        "instructors": "Alicea",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/advanced-condensed-matter-physics",
+        "prereq_text": "Prerequisites: Ph 135 or equivalent, or instructor's permission.",
+        "prereqs": [
+            "ph-135"
+        ]
+    },
+    "aph-250": {
+        "id": "aph-250",
+        "course_id": "APh 250",
+        "name": "Advanced Topics in Applied Physics",
+        "units": "",
+        "terms": "",
+        "description": "Content will vary from year to year; topics are chosen according to interests of students and staff. Visiting faculty may present portions of this course.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/advanced-topics-in-applied-physics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphms-256": {
+        "id": "aphms-256",
+        "course_id": "APh/MS 256",
+        "name": "Computational Solid State Physics and Materials Science",
+        "units": "9 units (3-3-3)",
+        "terms": "third term",
+        "description": "The course will cover first-principles computational methods to study electronic structure, lattice vibrations, optical properties, and charge and heat transport in materials. Topics include: Theory and practice of Density Functional Theory (DFT) and the total-energy pseudopotential method. DFT calculations of total energy, structure, defects, charge density, bandstructures, density of states, ferroelectricity and magnetism. Lattice vibrations using the finite-difference supercell and Density Functional Perturbation Theory (DFPT) methods. Electron-electron interactions, screening, and the GW method. GW bandstructure calculations. Optical properties, excitons, and the GW-Bethe Salpeter equation method. Ab initio Boltzmann transport equation (BTE) for electrons and phonons. Computations of heat and charge transport within the BTE framework. If time permits, selected advanced topics will be covered, including methods to treat vander Waals bonds, spin-orbit coupling, correlated materials, and quantum dynamics. Several laboratories will give students direct experience with running first-principles calculations.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Bernardi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/computational-solid-state-physics-and-materials-science",
+        "prereq_text": "Prerequisites: Ph 125 or equivalent and APh 114 ab or equivalent.",
+        "prereqs": [
+            "ph-125-abc",
+            "aph-114-abc"
+        ]
+    },
+    "aph-300": {
+        "id": "aph-300",
+        "course_id": "APh 300",
+        "name": "Thesis Research in Applied Physics",
+        "units": "",
+        "terms": "",
+        "description": "APh 300 is elected in place of APh 200 when the student has progressed to the point where their research leads directly toward a thesis for the degree of Doctor of Philosophy. Approval of the student's research supervisor and department adviser or registration representative must be obtained before registering. Graded pass/fail.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/aph/thesis-research-in-applied-physics",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

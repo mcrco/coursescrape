@@ -1,0 +1,417 @@
+{
+    "ms-78-abc": {
+        "id": "ms-78-abc",
+        "course_id": "MS 78 abc",
+        "name": "Senior thesis",
+        "units": "9 units",
+        "terms": "first, second, third terms",
+        "description": "Supervised research experience, open only to senior materials science majors. Starting with an open-ended topic, students will plan and execute a project in materials science and engineering that includes written and oral reports based upon actual results, synthesizing topics from their course work. Only the first term may be taken pass/fail.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/senior-thesis",
+        "prereq_text": "Prerequisites: instructor's permission.",
+        "prereqs": []
+    },
+    "ms-90": {
+        "id": "ms-90",
+        "course_id": "MS 90",
+        "name": "Materials Science Laboratory",
+        "units": "9 units (1-6-2)",
+        "terms": "third term",
+        "description": "An introductory laboratory in relationships between the structure and properties of materials. Experiments involve materials processing and characterization by X-ray diffraction, scanning electron microscopy, and optical microscopy. Students will learn techniques for measuring mechanical and electrical properties of materials, as well as how to optimize these properties through microstructural and chemical control. Independent projects may be performed depending on the student's interests and abilities.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/materials-science-laboratory",
+        "prereq_text": "Prerequisites: MS 115 recommended.",
+        "prereqs": []
+    },
+    "ms-100": {
+        "id": "ms-100",
+        "course_id": "MS 100",
+        "name": "Advanced Work in Materials Science",
+        "units": "",
+        "terms": "",
+        "description": "The staff in materials science will arrange special courses or problems to meet the needs of students working toward the M.S. degree or of qualified undergraduate students. Graded pass/fail for research and reading.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/advanced-work-in-materials-science",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphmsme-105-abc": {
+        "id": "aphmsme-105-abc",
+        "course_id": "APh/MS/ME 105 abc",
+        "name": "States of Matter",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Thermodynamics and statistical mechanics, with emphasis on gases, liquids, materials, and condensed matter. Effects of heat, pressure, and fields on states of matter are presented with both classical thermodynamics and with statistical mechanics. Conditions of equilibrium in systems with multiple degrees of freedom. Applications include ordered states of matter and phase transitions. The three terms cover, approximately, thermodynamics, statistical mechanics, and phase transitions.",
+        "offered": true,
+        "instructors": "Minnich, Troian, Falson",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/states-of-matter",
+        "prereq_text": "Prerequisites: APh 17 abc or equivalent.",
+        "prereqs": [
+            "aph-17-abc"
+        ]
+    },
+    "ms-110-abc": {
+        "id": "ms-110-abc",
+        "course_id": "MS 110 abc",
+        "name": "Materials Research Lectures",
+        "units": "1 unit (1-0-0)",
+        "terms": "first, second, third terms",
+        "description": "A seminar course designed to introduce advanced undergraduates and graduate students to modern research in materials science.",
+        "offered": true,
+        "instructors": "Faber, Falson, Fultz",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/materials-research-lectures",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "cheesemems-111": {
+        "id": "cheesemems-111",
+        "course_id": "ChE/ESE/ME/MS 111",
+        "name": "Sustainable Engineering",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Examines the Earth's resources including fresh water, nitrogen, carbon and other biogeochemical cycles that impose planetary constraints on engineering; systems approaches to sustainable development goals; fossil fuel formation, chemical composition, production and use; engineering challenges and opportunities in decarbonizing energy, transportation and industry; global flows of critical elements used in zero-carbon energy systems; food-water-energy nexus; analysis of regional and local systems to model effects of human activities on air, water and soil.",
+        "offered": true,
+        "instructors": "Kornfield",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/sustainable-engineering",
+        "prereq_text": "Prerequisites: (ChE 62 and ChE 63 ab) or (ME 11 abc) or (Ph 2 c and MS 115) or Instructor's permission.",
+        "prereqs": [
+            "ph-2-abc",
+            "me-11-abc"
+        ]
+    },
+    "chechms-113": {
+        "id": "chechms-113",
+        "course_id": "ChE/Ch/MS 113",
+        "name": "Squishy Engineering: Using Soft Materials to Solve Hard Problems",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "",
+        "offered": true,
+        "instructors": "Datta",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/squishy-engineering:-using-soft-materials-to-solve-hard-problems",
+        "prereq_text": "Prerequisites: ChE 63ab or equivalent, ChE 103ab or equivalent, and ChE 101 or equivalent; or instructor's permission.",
+        "prereqs": []
+    },
+    "ms-115": {
+        "id": "ms-115",
+        "course_id": "MS 115",
+        "name": "Fundamentals of Materials Science",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "An introduction to the structure and properties of materials and the processing routes utilized to optimize properties. All major classes of materials are covered, including metals, ceramics, electronic materials, composites, and polymers. The relationships between chemical bonding, crystal structure, defects, thermodynamics, phase equilibria, microstructure, and properties are described.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/fundamentals-of-materials-science",
+        "prereq_text": "Prerequisites: Ph 2.",
+        "prereqs": [
+            "ph-2-abc"
+        ]
+    },
+    "msmemede-116": {
+        "id": "msmemede-116",
+        "course_id": "MS/ME/MedE 116",
+        "name": "Mechanical Behavior of Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Introduction to the mechanical behavior of solids, emphasizing the relationships between microstructure, architecture, defects, and mechanical properties. Elastic, inelastic, and plastic properties of crystalline and amorphous materials. Relations between stress and strains for different types of materials. Introduction to dislocation theory, motion and forces on dislocations, strengthening mechanisms in crystalline solids. Nanomaterials: properties, fabrication, and mechanics. Architected solids: fabrication, deformation, failure, and energy absorption. Biomaterials: mechanical properties of composites, multi-scale microstructure, biological vs. synthetic, shear lag model. Fracture in brittle solids and linear elastic fracture mechanics.",
+        "offered": true,
+        "instructors": "Greer",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/mechanical-behavior-of-materials",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "ms-121": {
+        "id": "ms-121",
+        "course_id": "MS 121",
+        "name": "Laboratory Research Methods in Materials Science",
+        "units": "9 units (1-4-4)",
+        "terms": "second term",
+        "description": "Introduction to experimental methods and approaches for the analysis of structure, dynamics, and properties of materials. Staff members with expertise in various areas including mechanical testing, calorimetry, X-ray diffraction, scanning and transmission electron microscopy, solid state NMR and electrochemistry will introduce and supervise experiments in their specialty. As the situation permits, students are given a choice in selecting experiments.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/laboratory-research-methods-in-materials-science",
+        "prereq_text": "Prerequisites: MS 115 or graduate standing.",
+        "prereqs": []
+    },
+    "msaph-122": {
+        "id": "msaph-122",
+        "course_id": "MS/APh 122",
+        "name": "Diffraction, Imaging, and Structure",
+        "units": "9 units (0-4-5)",
+        "terms": "second term",
+        "description": "Experimental methods in transmission electron microscopy of inorganic materials including diffraction, spectroscopy, conventional imaging, high resolution imaging and sample preparation. Weekly laboratory exercises to complement material in MS 132.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/diffraction,-imaging,-and-structure",
+        "prereq_text": "Prerequisites: MS 132, may be taken concurrently.",
+        "prereqs": []
+    },
+    "ms-125": {
+        "id": "ms-125",
+        "course_id": "MS 125",
+        "name": "Advanced Transmission Electron Microscopy",
+        "units": "9 units (1-6-2)",
+        "terms": "third term",
+        "description": "Diffraction contrast analysis of crystalline defects. Phase contrast imaging. Physical optics approach to dynamical electron diffraction and imaging. Microbeam methods for diffraction and imaging. Chemical analysis by energy dispersive X-ray spectrometry and electron energy loss spectrometry.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/advanced-transmission-electron-microscopy",
+        "prereq_text": "Prerequisites: MS 122.",
+        "prereqs": []
+    },
+    "ms-131": {
+        "id": "ms-131",
+        "course_id": "MS 131",
+        "name": "Structure and Bonding in Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "Electronic states in atoms and molecules. Born-Oppenheimer approximation. Crystal structure, including databases and visualization. Reciprocal space and Brillouin zone. Band theory using tight binding and plane waves. Introduction to density functional theory. Bonding and electronic structure in metals, semiconductors, ionic crystals, and complex oxides. Symmetry in materials: point groups, space groups, and time-reversal symmetry. Physical properties of crystals and their tensor representation. Introduction to correlated and topological quantum materials.",
+        "offered": true,
+        "instructors": "Bernardi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/structure-and-bonding-in-materials",
+        "prereq_text": "Prerequisites: graduate standing or introductory quantum mechanics.",
+        "prereqs": []
+    },
+    "ms-132": {
+        "id": "ms-132",
+        "course_id": "MS 132",
+        "name": "Diffraction and Structure",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Principles of electron, X-ray, and neutron diffraction with applications to materials characterization. Imaging with electrons, and diffraction contrast of crystal defects. Kinematical theory of diffraction: effects of strain, size, disorder, and temperature. Correlation functions in solids, with introduction to space-time correlation functions.",
+        "offered": true,
+        "instructors": "Fultz",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/diffraction-and-structure",
+        "prereq_text": "Prerequisites: graduate standing or instructor's permission.",
+        "prereqs": []
+    },
+    "ms-133": {
+        "id": "ms-133",
+        "course_id": "MS 133",
+        "name": "Kinetic Processes in Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Kinetic master equation, uncorrelated and correlated random walk, diffusion. Mechanisms of diffusion and atom transport in solids, liquids, and gases. Coarsening of microstructures. Nonequilibrium processing of materials.",
+        "offered": true,
+        "instructors": "Greer, Kornfield",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/kinetic-processes-in-materials",
+        "prereq_text": "Prerequisites: APh 105 b or ChE/Ch 164, or instructor's permission.",
+        "prereqs": [
+            "ph-105"
+        ]
+    },
+    "aphms-141": {
+        "id": "aphms-141",
+        "course_id": "APh/MS 141",
+        "name": "Introduction to Computational Methods for Science and Engineering",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "",
+        "offered": true,
+        "instructors": "Bernardi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/introduction-to-computational-methods-for-science-and-engineering",
+        "prereq_text": "Prerequisites: graduate standing or instructor's permission.",
+        "prereqs": []
+    },
+    "ms-142": {
+        "id": "ms-142",
+        "course_id": "MS 142",
+        "name": "Application of Diffraction Techniques in Materials Science",
+        "units": "9 units (2-3-4)",
+        "terms": "second term",
+        "description": "Applications of X-ray and neutron diffraction methods to the structural characterization of materials. Emphasis is on the analysis of polycrystalline materials but some discussion of single crystal methods is also presented. Techniques include quantitative phase analysis, crystalline size measurement, lattice parameter refinement, internal stress measurement, quantification of preferred orientation (texture) in materials, Rietveld refinement, and determination of structural features from small angle scattering. Homework assignments will focus on analysis of diffraction data. Samples of interest to students for their thesis research may be examined where appropriate.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/application-of-diffraction-techniques-in-materials-science",
+        "prereq_text": "Prerequisites: Instructor's permission.",
+        "prereqs": []
+    },
+    "ms-150-abc": {
+        "id": "ms-150-abc",
+        "course_id": "MS 150 abc",
+        "name": "Topics in Materials Science",
+        "units": "",
+        "terms": "first, second, third terms",
+        "description": "Content will vary from year to year, but will be at a level suitable for advanced undergraduate or graduate students. Topics are chosen according to the interests of students and faculty. Visiting faculty may present portions of the course.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/topics-in-materials-science",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aphphms-152": {
+        "id": "aphphms-152",
+        "course_id": "APh/Ph/MS 152",
+        "name": "Fundamentals of Fluid Flow in Small Scale Systems",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Research efforts in many areas of applied science and engineering are increasingly focused on microsystems involving active or passive fluid flow confined to 1D, 2D or 3D platforms. Intrinsically large ratios of surface to volume can incur unusual surface forces and boundary effects essential to operation of microdevices for applications such as optofluidics, bioengineering, green energy harvesting and nanofilm lithography. This course offers a concise treatment of the fundamentals of fluidic behavior in small scale systems. Examples will be drawn from pulsatile, oscillatory and capillary flows, active and passive spreading of liquid dots and films, thermocapillary and electrowetting systems, and instabilities leading to self-sustaining patterns. Students must have working knowledge of vector calculus, ODEs, basic PDEs, and complex variables.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Troian",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/fundamentals-of-fluid-flow-in-small-scale-systems",
+        "prereq_text": "Prerequisites: ACM 95/100 ab or equivalent.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "aphphaems-153": {
+        "id": "aphphaems-153",
+        "course_id": "APh/Ph/Ae/MS 153",
+        "name": "Fundamentals of Energy and Mass Transport in Small Scale Systems",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "The design of instrumentation for cooling, sensing or measurement in microsystems requires special knowledge of the evolution and propagation of thermal and concentration gradients in confined geometries, which ultimately control the degree of maximum energy and mass exchange. A significant challenge facing the microelectronics industry, for example, is mitigation of hot spots in densely packed high power chips for artificial intelligence to prevent thermal runaway. This course offers a concise treatment of the fundamentals of mass and energy transport by examining steady and unsteady diffusive and convective processes in small confined systems. Contrasts with macroscale behavior caused by the effects of small scale confinement and reduced dimensionality will be examined. Sample problems will be drawn from systems in applied physics, material science, electrical and bioengineering. Students must have working knowledge of vector calculus, ODEs, basic PDEs, and complex variables.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Troian",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/fundamentals-of-energy-and-mass-transport-in-small-scale-systems",
+        "prereq_text": "Prerequisites: ACM 95/100 ab or equivalent.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "msme-161": {
+        "id": "msme-161",
+        "course_id": "MS/ME 161",
+        "name": "Imperfections in Crystals",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "The relation of lattice defects to the physical and mechanical properties of crystalline solids. Introduction to point imperfections and their relationships to transport properties in metallic, covalent, and ionic crystals. Kroeger-Vink notation. Introduction to dislocations: geometric, crystallographic, elastic, and energetic properties of dislocations. Dislocation reactions and interactions including formation of locks, stacking faults, and surface effects. Relations between collective dislocation behavior and mechanical properties of crystals. Introduction to computer simulations of dislocations. Grain boundaries. The structure and properties of interfaces in solids. Emphasis on materials science aspects of role of defects in electrical, morphological, optical, and mechanical properties of solids.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Greer",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/imperfections-in-crystals",
+        "prereq_text": "Prerequisites: graduate standing or MS 115.",
+        "prereqs": []
+    },
+    "msaph-162": {
+        "id": "msaph-162",
+        "course_id": "MS/APh 162",
+        "name": "Electronic Structure of Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Falson",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/electronic-structure-of-materials",
+        "prereq_text": "Prerequisites: APh 114a (or equivalent solid-state physics), or MS131 strongly recommended.",
+        "prereqs": [
+            "aph-114-abc"
+        ]
+    },
+    "msme-166": {
+        "id": "msme-166",
+        "course_id": "MS/ME 166",
+        "name": "Fracture of Brittle Solids",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "The mechanical response of brittle materials (ceramics, glasses and some network polymers) will be treated using classical elasticity, energy criteria, and fracture mechanics. The influence of environment and microstructure on mechanical behavior will be explored. Transformation toughened systems, large-grain crack-bridging systems, nanostructured ceramics, porous ceramics, anomalous glasses, and the role of residual stresses will be highlighted. Strength, flaw statistics and reliability will be discussed.",
+        "offered": true,
+        "instructors": "Faber",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/fracture-of-brittle-solids",
+        "prereq_text": "Prerequisites: graduate standing or MS 115 and MS 116.",
+        "prereqs": []
+    },
+    "msaph-171": {
+        "id": "msaph-171",
+        "course_id": "MS/APh 171",
+        "name": "Inelastic Scattering of Materials, Molecules, and Condensed Matter",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "",
+        "offered": true,
+        "instructors": "Fultz",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/inelastic-scattering-of-materials,-molecules,-and-condensed-matter",
+        "prereq_text": "Prerequisites: EE/APh 131 or MS 132 or equivalent.",
+        "prereqs": []
+    },
+    "ms-200": {
+        "id": "ms-200",
+        "course_id": "MS 200",
+        "name": "Advanced Work in Materials Science",
+        "units": "",
+        "terms": "",
+        "description": "The staff in materials science will arrange special courses or problems to meet the needs of advanced graduate students.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/advanced-work-in-materials-science",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aeammsme-213": {
+        "id": "aeammsme-213",
+        "course_id": "Ae/AM/MS/ME 213",
+        "name": "Mechanics and Materials Aspects of Fracture",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "Analytical and experimental techniques in the study of fracture in metallic and nonmetallic solids. Mechanics of brittle and ductile fracture; connections between the continuum descriptions of fracture and micromechanisms. Discussion of elastic-plastic fracture analysis and fracture criteria. Special topics include fracture by cleavage, void growth, rate sensitivity, crack deflection and toughening mechanisms, as well as fracture of nontraditional materials. Fatigue crack growth and life prediction techniques will also be discussed. In addition, \"dynamic\" stress wave dominated, failure initiation growth and arrest phenomena will be covered. This will include traditional dynamic fracture considerations as well as discussions of failure by adiabatic shear localization.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/mechanics-and-materials-aspects-of-fracture",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 abc (concurrently) or equivalent and instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "memsam-221": {
+        "id": "memsam-221",
+        "course_id": "ME/MS/AM 221",
+        "name": "Effective properties of heterogenous and meta-materials",
+        "units": "",
+        "terms": "third term",
+        "description": "Heterogenous materials. Notion of effective properties. Homogenization theory and applications to linear conductivity, elasticity and viscoelasticity. Effective properties in non-linear setting and instabilities.  Wave propagation and meta-materials. Bandgaps.",
+        "offered": true,
+        "instructors": "Bhattacharya",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/effective-properties-of-heterogenous-and-meta-materials",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 or equivalent.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "memsaeam-224": {
+        "id": "memsaeam-224",
+        "course_id": "ME/MS/Ae/AM 224",
+        "name": "Multifunctional Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Multiscale view of materials and different approaches of introducing functionality; Electronic aspects and multiferroic materials; Symmetry breaking phase transformations, microstructure: shape-memory alloys, ferroelectrics, liquid crystal elastomers; Composite materials and metamaterials: multifunctional structures.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/multifunctional-materials",
+        "prereq_text": "Prerequisites: MS 115 or equivalent, Ae/AM/CE/ME 102 abc or APh 105 abc (may be waived with instructor's permission).",
+        "prereqs": [
+            "aeamceme-102-abc",
+            "ph-105"
+        ]
+    },
+    "aphms-256": {
+        "id": "aphms-256",
+        "course_id": "APh/MS 256",
+        "name": "Computational Solid State Physics and Materials Science",
+        "units": "9 units (3-3-3)",
+        "terms": "third term",
+        "description": "The course will cover first-principles computational methods to study electronic structure, lattice vibrations, optical properties, and charge and heat transport in materials. Topics include: Theory and practice of Density Functional Theory (DFT) and the total-energy pseudopotential method. DFT calculations of total energy, structure, defects, charge density, bandstructures, density of states, ferroelectricity and magnetism. Lattice vibrations using the finite-difference supercell and Density Functional Perturbation Theory (DFPT) methods. Electron-electron interactions, screening, and the GW method. GW bandstructure calculations. Optical properties, excitons, and the GW-Bethe Salpeter equation method. Ab initio Boltzmann transport equation (BTE) for electrons and phonons. Computations of heat and charge transport within the BTE framework. If time permits, selected advanced topics will be covered, including methods to treat vander Waals bonds, spin-orbit coupling, correlated materials, and quantum dynamics. Several laboratories will give students direct experience with running first-principles calculations.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Bernardi",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/computational-solid-state-physics-and-materials-science",
+        "prereq_text": "Prerequisites: Ph 125 or equivalent and APh 114 ab or equivalent.",
+        "prereqs": [
+            "ph-125-abc",
+            "aph-114-abc"
+        ]
+    },
+    "ms-300": {
+        "id": "ms-300",
+        "course_id": "MS 300",
+        "name": "Thesis Research",
+        "units": "",
+        "terms": "",
+        "description": "",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ms/thesis-research",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

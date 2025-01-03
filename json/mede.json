@@ -1,0 +1,328 @@
+{
+    "mede-99": {
+        "id": "mede-99",
+        "course_id": "MedE 99",
+        "name": "Undergraduate Research in Medical Engineering",
+        "units": "Variable units as arranged with the advising faculty member",
+        "terms": "first, second, third terms",
+        "description": "Undergraduate research with a written report at the end of each term; supervised by a Caltech faculty member, or co-advised by a Caltech faculty member and an external researcher. Graded pass/fail.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/undergraduate-research-in-medical-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "mede-100-abc": {
+        "id": "mede-100-abc",
+        "course_id": "MedE 100 abc",
+        "name": "Medical Engineering Seminar",
+        "units": "1 unit",
+        "terms": "first, second, third terms",
+        "description": "All PhD degree candidates in Medical Engineering are required to attend all MedE seminars. If there is no MedE seminar during a week, then the students should go to any other graduate-level seminar that week. Students should broaden their knowledge of the engineering principles and sciences of medical engineering. Students are expected to learn the forefronts of the research and development of medical materials, technologies, devices and systems from the seminars. Graded pass/fail.",
+        "offered": true,
+        "instructors": "Gao, Wang",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/medical-engineering-seminar",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "mede-101": {
+        "id": "mede-101",
+        "course_id": "MedE 101",
+        "name": "Introduction to Clinical Physiology and Pathophysiology for Engineers",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "The goal of this course is to introduce engineering scientists to medical physiological systems: with a special emphasis on the clinical relevance. The design of the course is to present two related lectures each week: An overview of the physiology of a system followed by examples of current clinical medical challenges and research highlighting diagnostic and therapeutic modalities. The final three weeks of the course will be a mini-work shop where the class explores challenging problems in medical physiology. The course ultimately seeks to promote a bridge between relevant clinical problems and engineering scientists who desire to solve them. Graded pass/fail.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/introduction-to-clinical-physiology-and-pathophysiology-for-engineers",
+        "prereq_text": "Prerequisites: No Prerequisites, Bi 1 or equivalent recommended.",
+        "prereqs": []
+    },
+    "ememede-106-ab": {
+        "id": "ememede-106-ab",
+        "course_id": "E/ME/MedE 106 ab",
+        "name": "Design for Freedom from Disability",
+        "units": "9 units (3-0-6)",
+        "terms": "terms to be arranged",
+        "description": "This Product Design class focuses on people with Disabilities and is done in collaboration with Rancho Los Amigos National Rehabilitation Center. Students visit the Center to define products based upon actual stated and observed needs. Designs and testing are done in collaboration with Rancho associates. Speakers include people with assistive needs, therapists and researchers. Classes teach normative design methodologies as adapted for this special area.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/design-for-freedom-from-disability",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "chebemede-112": {
+        "id": "chebemede-112",
+        "course_id": "ChE/BE/MedE 112",
+        "name": "Creativity and Technological Innovation with Microfluidic Systems",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Ismagilov",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/creativity-and-technological-innovation-with-microfluidic-systems",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "eemede-114-ab": {
+        "id": "eemede-114-ab",
+        "course_id": "EE/MedE 114 ab",
+        "name": "Analog Circuit Design",
+        "units": "12 units (4-0-8)",
+        "terms": "second, third terms",
+        "description": "Analysis and design of analog circuits at the transistor level. Emphasis on design-oriented analysis, quantitative performance measures, and practical circuit limitations. Circuit performance evaluated by hand calculations and computer simulations. Recommended for juniors, seniors, and graduate students. Topics include: review of physics of bipolar and MOS transistors, low-frequency behavior of single-stage and multistage amplifiers, current sources, active loads, differential amplifiers, operational amplifiers, high-frequency circuit analysis using time- and transfer constants, high-frequency response of amplifiers, feedback in electronic circuits, stability of feedback amplifiers, and noise in electronic circuits, and supply and temperature independent biasing. A number of the following topics will be covered each year: trans-linear circuits, switched capacitor circuits, data conversion circuits (A/D and D/A), continuous-time Gm.C filters, phase locked loops, oscillators, and modulators.",
+        "offered": true,
+        "instructors": "Hajimiri",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/analog-circuit-design",
+        "prereq_text": "Prerequisites: EE 44 or equivalent.",
+        "prereqs": [
+            "ee-44"
+        ]
+    },
+    "eemede-115": {
+        "id": "eemede-115",
+        "course_id": "EE/MedE 115",
+        "name": "Micro-/Nano-scales Electro-Optics",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "The course will cover various electro-optical phenomena and devices in the micro-/nano-scales. We will discuss basic properties of light, imaging, aberrations, eyes, detectors, lasers, micro-optical components and systems, scalar diffraction theory, interference/interferometers, holography, dielectric/plasmonic waveguides, and various Raman techniques. Topics may vary.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/micro-/nano-scales-electro-optics",
+        "prereq_text": "Prerequisites: Introductory electromagnetic class and consent of the instructor.",
+        "prereqs": []
+    },
+    "msmemede-116": {
+        "id": "msmemede-116",
+        "course_id": "MS/ME/MedE 116",
+        "name": "Mechanical Behavior of Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Introduction to the mechanical behavior of solids, emphasizing the relationships between microstructure, architecture, defects, and mechanical properties. Elastic, inelastic, and plastic properties of crystalline and amorphous materials. Relations between stress and strains for different types of materials. Introduction to dislocation theory, motion and forces on dislocations, strengthening mechanisms in crystalline solids. Nanomaterials: properties, fabrication, and mechanics. Architected solids: fabrication, deformation, failure, and energy absorption. Biomaterials: mechanical properties of composites, multi-scale microstructure, biological vs. synthetic, shear lag model. Fracture in brittle solids and linear elastic fracture mechanics.",
+        "offered": true,
+        "instructors": "Greer",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/mechanical-behavior-of-materials",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "eemede-124": {
+        "id": "eemede-124",
+        "course_id": "EE/MedE 124",
+        "name": "Mixed-mode Integrated Circuits",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "Introduction to selected topics in mixed-signal circuits and systems in highly scaled CMOS technologies. Design challenges and limitations in current and future technologies will be discussed through topics such as clocking (PLLs and DLLs), clock distribution networks, sampling circuits, high-speed transceivers, timing recovery techniques, equalization, monitor circuits, power delivery, and converters (A/D and D/A). A design project is an integral part of the course.",
+        "offered": true,
+        "instructors": "Emami",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/mixed-mode-integrated-circuits",
+        "prereq_text": "Prerequisites: EE 45 a or equivalent.",
+        "prereqs": [
+            "ee-45"
+        ]
+    },
+    "eecsmede-125": {
+        "id": "eecsmede-125",
+        "course_id": "EE/CS/MedE 125",
+        "name": "Digital Circuit Design with FPGAs and VHDL",
+        "units": "9 units (3-6-0)",
+        "terms": "third term",
+        "description": "Study of programmable logic devices (FPGAs). Detailed study of the VHDL language, accompanied by tutorials of popular synthesis and simulation tools. Review of combinational circuits (both logic and arithmetic), followed by VHDL code for combinational circuits and corresponding FPGA-implemented designs. Review of sequential circuits, followed by VHDL code for sequential circuits and corresponding FPGA-implemented designs. Review of finite state machines, followed by VHDL code for state machines and corresponding FPGA-implemented designs. Final project. The course includes a wide selection of real-world projects, implemented and tested using FPGA boards.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/digital-circuit-design-with-fpgas-and-vhdl",
+        "prereq_text": "Prerequisites: EE/CS 10 or equivalent.",
+        "prereqs": [
+            "eecs-10-ab"
+        ]
+    },
+    "medeeebe-168-abc": {
+        "id": "medeeebe-168-abc",
+        "course_id": "MedE/EE/BE 168 abc",
+        "name": "Biomedical Optics: Principles and Imaging",
+        "units": "9 units (4-0-5) each",
+        "terms": "second term, part a offered 2024-25, part b offered 2025-26, part c offered 2026-27.",
+        "description": "Part a covers the principles of optical photon transport in biological tissue. Topics include a brief introduction to biomedical optics, single-scatterer theories, Monte Carlo modeling of photon transport, convolution for broad-beam responses, radiative transfer equation and diffusion theory, hybrid Monte Carlo method and diffusion theory, and sensing of optical properties and spectroscopy, (absorption, elastic scattering, Raman scattering, and fluorescence). Part b covers established optical imaging technologies. Topics include ballistic imaging (confocal microscopy, two-photon microscopy, super-resolution microscopy, etc.), optical coherence tomography, Mueller optical coherence tomography, and diffuse optical tomography. Part c covers emerging optical imaging technologies. Topics include photoacoustic tomography, ultrasound-modulated optical tomography, optical time reversal (wavefront shaping/engineering), and ultrafast imaging.\n MedE/EE/BE 168 bc not offered 2024-25. Part a offered 2024-25.",
+        "offered": true,
+        "instructors": "Wang",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/biomedical-optics:-principles-and-imaging",
+        "prereq_text": "Prerequisites: instructor's permission.",
+        "prereqs": []
+    },
+    "eecsmede-175": {
+        "id": "eecsmede-175",
+        "course_id": "EE/CS/MedE 175",
+        "name": "Advanced Topics in Digital Design with FPGAs and VHDL",
+        "units": "9 units (3-6-0)",
+        "terms": "third term",
+        "description": "Quick review of the VHDL language and RTL concepts. Dealing with sophisticated, multi-dimensional data types in VHDL. Dealing with multiple time domains. Transfer of control versus data between clock domains. Clock division and multiplication. Using PLLs. Dealing with global versus local and synchronous versus asynchronous resets. How to measure maximum speed in FPGAs (for both registered and unregistered circuits). The (often) hard task of time closure. The subtleties of the time behavior in state machines (a major source of errors in large, complex designs). Introduction to simulation. Construction of VHDL testbenches for automated testing. Dealing with files in simulation. All designs are physically implemented using FPGA boards.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/advanced-topics-in-digital-design-with-fpgas-and-vhdl",
+        "prereq_text": "Prerequisites: EE/CS/MedE 125 or equivalent.",
+        "prereqs": []
+    },
+    "eemede-185": {
+        "id": "eemede-185",
+        "course_id": "EE/MedE 185",
+        "name": "Micro/Nano Technology for Semiconductor and Medical Device",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Tai",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/micro/nano-technology-for-semiconductor-and-medical-device",
+        "prereq_text": "Prerequisites: APh/EE 9 or instructor's permission.",
+        "prereqs": [
+            "aphee-9"
+        ]
+    },
+    "eemede-187": {
+        "id": "eemede-187",
+        "course_id": "EE/MedE 187",
+        "name": "MEMS/NEMS Technologies for Biomedical Devices",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Tai",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/mems/nems-technologies-for-biomedical-devices",
+        "prereq_text": "Prerequisites: APh/EE 9 or instructor's permission.",
+        "prereqs": [
+            "aphee-9"
+        ]
+    },
+    "chebemede-188": {
+        "id": "chebemede-188",
+        "course_id": "ChE/BE/MedE 188",
+        "name": "Molecular Imaging",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This course will cover the basic principles of biological and medical imaging technologies including magnetic resonance, ultrasound, nuclear imaging, fluorescence, bioluminescence and photoacoustics, and the design of chemical and biological probes to obtain molecular information about living systems using these modalities. Topics will include nuclear spin behavior, sound wave propagation, radioactive decay, photon absorption and scattering, spatial encoding, image reconstruction, statistical analysis, and molecular contrast mechanisms. The design of molecular imaging agents for biomarker detection, cell tracking, and dynamic imaging of cellular signals will be analyzed in terms of detection limits, kinetics, and biological effects. Participants in the course will develop proposals for new molecular imaging agents for applications such as functional brain imaging, cancer diagnosis, and cell therapy.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Shapiro",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/molecular-imaging",
+        "prereq_text": "Prerequisites: Ch/Bi 110, ChE 101 and ACM 95 or equivalent.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "beeemede-189-ab": {
+        "id": "beeemede-189-ab",
+        "course_id": "BE/EE/MedE 189 ab",
+        "name": "Design and Construction of Biodevices",
+        "units": "189 a, 12 units (3-6-3) offered both first and third terms. 189 b, 9 units (0-9-0) offered only third term",
+        "terms": "first, third terms",
+        "description": "Students will learn to use an Arduino microcontroller to interface sensing and actuation hardware with the computer. Students will learn and practice engineering design principles through a set of projects. In part a, students will design and implement biosensing systems; examples include a pulse monitor, a pulse oximeter, and a real-time polymerase-chain-reaction incubator. Part b is a student-initiated design project requiring instructor's permission for enrollment. Enrollment is limited based on laboratory capacity.",
+        "offered": true,
+        "instructors": "Murray,Yang",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/design-and-construction-of-biodevices",
+        "prereq_text": "Prerequisites: BE/EE/MedE 189 a must be taken before BE/EE/MedE 189 b.",
+        "prereqs": []
+    },
+    "mede-199": {
+        "id": "mede-199",
+        "course_id": "MedE 199",
+        "name": "Special Topics in Medical Engineering",
+        "units": "",
+        "terms": "terms to be arranged",
+        "description": "Subject matter will change from term to term depending upon staff and student interest, but will generally center on the understanding and applying engineering for medical problems.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/special-topics-in-medical-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "mede-201": {
+        "id": "mede-201",
+        "course_id": "MedE 201",
+        "name": "Introduction to Medical Devices",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This course provides a broad coverage on the frontiers of medical diagnostic and therapeutic technologies and devices based on multidisciplinary engineering principles. Topics include FDA regulations, in vitro diagnostics, biosensors, electrograms, medical imaging technologies, medical implants, nanomedicine, cardiovascular engineering & technology, medical electronics, wireless communications through the skin and tissue, and medical robotics. Overall, the course will cover the scientific fundamentals of biology, chemistry, engineering, physics, and materials specific to medical applications. However, both the lectures and assignments will also emphasize the design aspects of the topics as well as up-to-date literature study.",
+        "offered": true,
+        "instructors": "Gao",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/introduction-to-medical-devices",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "mede-202": {
+        "id": "mede-202",
+        "course_id": "MedE 202",
+        "name": "Sensors in Medicine",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Sensors play a very important role in all aspect of modern life. This course is an essential introduction to a variety of physical, chemical and biological sensors that are used in medicine and healthcare. The fundamental recognition mechanisms, transduction principles and materials considerations for designing powerful sensing and biosensing devices will be covered. We will also discuss the development of emerging electronic-skin, wearable and soft electronics toward personalized health monitoring. Participants in the course will develop proposals for novel sensing technologies to address the current medical needs.",
+        "offered": true,
+        "instructors": "Gao",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/sensors-in-medicine",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "medeee-204": {
+        "id": "medeee-204",
+        "course_id": "MedE/EE 204",
+        "name": "Principles and Designs of Medical Neuromodulation Devices",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "This is a course for senior undergraduates and graduate students. This course provides a review for advanced medical neuromodulation devices based on multidisciplinary engineering principles. Emphasis will be on implantable neuromodulation devices for both neural recording and stimulation such as EKG, EEG, EMG, pacemakers, DBS, etc. Sub-topics include biomaterials, biocompatibility, medical electronics, and FDA regulation on medical devices. The course will focus on engineering fundamentals specific for neural applications. Lectures and assignments will emphasize the design aspects of various devices as well as up-to-date literature study.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Tai",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/principles-and-designs-of-medical-neuromodulation-devices",
+        "prereq_text": "Prerequisites: Instructor's permission.",
+        "prereqs": []
+    },
+    "mede-205": {
+        "id": "mede-205",
+        "course_id": "MedE 205",
+        "name": "New Frontiers in Medical Technologies",
+        "units": "6 units (2-0-4)",
+        "terms": "third term",
+        "description": "New Frontiers of Medical Technologies is an introductory graduate level course that describes space technologies, instruments, and engineering techniques with current and potential applications in medicine. These technologies have been originally and mainly developed for space exploration. Spinoff applications to medicine have been explored and proven with various degrees of success and maturity. This class introduces these topics, the basics of the technologies, their intended original space applications, and the medical applications. Topics include but are not limited to multimodal imaging, UV/Visible/NIR imaging, imaging spectrometry, sensors, robotics, and navigation. Graded pass/fail.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/new-frontiers-in-medical-technologies",
+        "prereq_text": "Prerequisites: None but knowledge of semiconductor physics and some system engineering, basic electrical engineering highly recommended.",
+        "prereqs": []
+    },
+    "medebeae-243": {
+        "id": "medebeae-243",
+        "course_id": "MedE/BE/Ae 243",
+        "name": "Physiological Mechanics",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Internal flows: steady and pulsatile blood flow in compliant vessels, internal flows in organisms. Fluid dynamics of the human circulatory system: heart, veins, and arteries (microcirculation). Mass and momentum transport across membranes and endothelial layers. Fluid mechanics of the respiratory system. Renal circulation and circulatory system. Biological pumps. Low and High Reynolds number locomotion.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/physiological-mechanics",
+        "prereq_text": "Prerequisites: Ae/APh/CE/ME 101 abc or equivalent or ChE 103 a.",
+        "prereqs": [
+            "aeaphceme-101-abc"
+        ]
+    },
+    "medeee-268": {
+        "id": "medeee-268",
+        "course_id": "MedE/EE 268",
+        "name": "Medical Imaging",
+        "units": "9 units (4-0-5)",
+        "terms": "second term",
+        "description": "Medical imaging technologies will be covered. Topics include X-ray radiography, X-ray computed tomography (CT), nuclear imaging (PET & SPECT), ultrasonic imaging, and magnetic resonance imaging (MRI).\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Wang",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/medical-imaging",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "mede-291": {
+        "id": "mede-291",
+        "course_id": "MedE 291",
+        "name": "Research in Medical Engineering",
+        "units": "",
+        "terms": "first, second, third terms",
+        "description": "Qualified graduate students are advised in medical engineering research, with the arrangement of MedE staff. Graded pass/fail.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/mede/research-in-medical-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

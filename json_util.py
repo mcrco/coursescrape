@@ -1,11 +1,15 @@
 import json
 import os
+from pathlib import Path
 
 
 # Save courses to dept.json
 def save_courses(courses: dict, dept: str):
     file = f"{dept}.json"
-    with open(os.path.join("json", file), "w", encoding="utf-8") as json_file:
+    save_dir = Path("json")
+    if not save_dir.exists():
+        save_dir.mkdir()
+    with open(os.path.join(str(save_dir), file), "w", encoding="utf-8") as json_file:
         json.dump(courses, json_file, indent=4)
     print(f"{dept.upper()} courses (prereqs as text) saved to {file}")
 

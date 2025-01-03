@@ -1,4 +1,3 @@
-import json
 import re
 
 
@@ -9,15 +8,7 @@ def has_no_numbers(string):
     return True
 
 
-def extract_prereqs(prereq_text):
-    depts = ["cms", "ma", "ee", "ph", "ay", "mce"]
-
-    courses = {}
-    for dept in depts:
-        with open(f"json/{dept}.json") as f:
-            dept_courses = json.load(f)
-            courses.update(dept_courses)
-
+def extract_prereqs(prereq_text, courses):
     prefixes = ["ma", "ee", "ph", "acm", "ids", "ay", "cs", "me"]
     escaped_strings = [re.escape(s) for s in prefixes]
     pattern = (

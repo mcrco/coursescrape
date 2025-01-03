@@ -1,0 +1,270 @@
+{
+    "ce-100": {
+        "id": "ce-100",
+        "course_id": "CE 100",
+        "name": "Special Topics in Civil Engineering",
+        "units": "",
+        "terms": "",
+        "description": "Special problems or courses arranged to meet the needs of first-year graduate students or qualified undergraduate students. Graded pass/fail.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/special-topics-in-civil-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aeaphceme-101-abc": {
+        "id": "aeaphceme-101-abc",
+        "course_id": "Ae/APh/CE/ME 101 abc",
+        "name": "Fluid Mechanics",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Fundamentals of fluid mechanics. Microscopic and macroscopic properties of liquids and gases; the continuum hypothesis; review of thermodynamics; general equations of motion; kinematics; stresses; constitutive relations; vorticity, circulation; Bernoulli's equation; potential flow; thin-airfoil theory; surface gravity waves; buoyancy-driven flows; rotating flows; viscous creeping flow; viscous boundary layers; introduction to stability and turbulence; quasi one-dimensional compressible flow; shock waves; unsteady compressible flow; and acoustics.",
+        "offered": true,
+        "instructors": "Bae, Pullin, Colonius",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/fluid-mechanics",
+        "prereq_text": "Prerequisites: APh 17 or ME 11 abc, and ME 12 or equivalent, ACM 95/100 or equivalent (may be taken concurrently).",
+        "prereqs": [
+            "me-12-abc",
+            "acm-95100-ab",
+            "me-11-abc",
+            "aph-17-abc"
+        ]
+    },
+    "aeamceme-102-abc": {
+        "id": "aeamceme-102-abc",
+        "course_id": "Ae/AM/CE/ME 102 abc",
+        "name": "Mechanics of Structures and Solids",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Introduction to continuum mechanics: kinematics, balance laws, constitutive laws with an emphasis on solids. Static and dynamic stress analysis. Two- and three-dimensional theory of stressed elastic solids. Wave propagation. Analysis of rods, plates and shells with applications in a variety of fields. Variational theorems and approximate solutions. Elastic stability.",
+        "offered": true,
+        "instructors": "Lapusta, Ravichandran",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/mechanics-of-structures-and-solids",
+        "prereq_text": "Prerequisites: ME 12 abc.",
+        "prereqs": [
+            "me-12-abc"
+        ]
+    },
+    "ceaeam-108": {
+        "id": "ceaeam-108",
+        "course_id": "CE/Ae/AM 108",
+        "name": "Computational Mechanics",
+        "units": "9 units (3-5-1)",
+        "terms": "first, second terms",
+        "description": "Numerical methods and techniques for solving initial boundary value problems in continuum mechanics (from heat conduction to statics and dynamics of solids and structures). Finite difference methods, direct methods, variational methods, finite elements in small strains and at finite deformation for applications in structural mechanics and solid mechanics. Solution of the partial differential equations of heat transfer, solid and structural mechanics, and fluid mechanics. Transient and nonlinear problems. Computational aspects and development and use of finite element code.",
+        "offered": true,
+        "instructors": "Ramarathinam",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/computational-mechanics",
+        "prereq_text": "Prerequisites: Ae/AM/ME/CE 102 abc or Ae/GE/ME 160 ab, or instructor's permission.",
+        "prereqs": [
+            "aegeme-160-ab"
+        ]
+    },
+    "mecegeese-146": {
+        "id": "mecegeese-146",
+        "course_id": "ME/CE/Ge/ESE 146",
+        "name": "Computational Methods for Flow in Porous Media",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Fu",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/computational-methods-for-flow-in-porous-media",
+        "prereq_text": "Prerequisites: ME 11 abc, ME 12 abc, ACM 95/100, ACM 106 ab (may be taken concurrently).",
+        "prereqs": [
+            "me-12-abc",
+            "acm-95100-ab",
+            "me-11-abc"
+        ]
+    },
+    "amceme-150-abc": {
+        "id": "amceme-150-abc",
+        "course_id": "AM/CE/ME 150 abc",
+        "name": "Graduate Engineering Seminar",
+        "units": "1 unit",
+        "terms": "each term",
+        "description": "Students attend a graduate seminar each week of each term and submit a report about the attended seminars. At least four of the attended seminars each term should be from the Mechanical and Civil Engineering seminar series. Students not registered for the M.S. and Ph.D. degrees must receive the instructor's permission. Graded pass/fail.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/graduate-engineering-seminar",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "amce-151": {
+        "id": "amce-151",
+        "course_id": "AM/CE 151",
+        "name": "Dynamics and Vibration",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Equilibrium concepts, conservative and dissipative systems, Lagrange's equations, differential equations of motion for discrete single and multi degree-of-freedom systems, natural frequencies and mode shapes of these systems (Eigenvalue problem associated with the governing equations), phase plane analysis of vibrating systems, forms of damping and energy dissipated in damped systems, response to simple force pulses, harmonic and earthquake excitation, response spectrum concepts, vibration isolation, seismic instruments, dynamics of continuous systems, Hamilton's principle, axial vibration of rods and membranes, transverse vibration of strings, beams (Bernoulli-Euler and Timoshenko beam theory), and plates, traveling and standing wave solutions to motion of continuous systems, Rayleigh quotient and the Rayleigh-Ritz method to approximate natural frequencies and mode shapes of discrete and continuous systems, frequency domain solutions to dynamical systems, stability criteria for dynamical systems, and introduction to nonlinear systems and random vibration theory.",
+        "offered": true,
+        "instructors": "Asimaki",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/dynamics-and-vibration",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "ce-160-ab": {
+        "id": "ce-160-ab",
+        "course_id": "CE 160 ab",
+        "name": "Structural and Earthquake Engineering",
+        "units": "9 units (3-0-6)",
+        "terms": "second, third terms",
+        "description": "Matrix structural analysis of the static and dynamic response of structural systems, Newmark time integration, Newton-Raphson iteration methodology for the response of nonlinear systems, stability of iteration schemes, static and dynamic numerical analysis of planar beam structures (topics include the development of stiffness, mass, and damping matrices, material and geometric nonlinearity effects, formulation of a nonlinear 2-D beam element, uniform and nonuniform earthquake loading, soil-structure interaction, 3-D beam element formulation, shear deformations, and panel zone deformations in steel frames, and large deformation analysis), seismic design and analysis of steel moment frame and braced frame systems, steel member behavior (topics include bending, buckling, torsion, warping, and lateral torsional buckling, and the effects of residual stresses), reinforced concrete member behavior (topics include bending, shear, torsion, and PMM interaction), and seismic design requirements for reinforced concrete structures.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/structural-and-earthquake-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aece-165-ab": {
+        "id": "aece-165-ab",
+        "course_id": "Ae/CE 165 ab",
+        "name": "Mechanics of Composite Materials and Structures",
+        "units": "9 units (2-2-5)",
+        "terms": "first, second terms",
+        "description": "",
+        "offered": true,
+        "instructors": "Pellegrino",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/mechanics-of-composite-materials-and-structures",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 abc or equivalent and/or instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "mecege-174": {
+        "id": "mecege-174",
+        "course_id": "ME/CE/Ge 174",
+        "name": "Mechanics of Rocks",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Basic principles of deformation, strength, and stressing of rocks. Elastic behavior, plasticity, viscoelasticity, viscoplasticity, creep, damage, friction, failure mechanisms, shear localization, and interaction of deformation processes with fluids. Engineering and geological applications.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/mechanics-of-rocks",
+        "prereq_text": "Prerequisites: Ae/Ge/ME 160 a.",
+        "prereqs": [
+            "aegeme-160-ab"
+        ]
+    },
+    "ce-180": {
+        "id": "ce-180",
+        "course_id": "CE 180",
+        "name": "Experimental Methods in Earthquake Engineering",
+        "units": "9 units (1-5-3)",
+        "terms": "first term",
+        "description": "Laboratory work involving calibration and performance of basic transducers suitable for the measurement of strong earthquake ground motion, and of structural response to such motion. Study of principal methods of dynamic tests of structures, including generation of forces and measurement of structural response.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/experimental-methods-in-earthquake-engineering",
+        "prereq_text": "Prerequisites: AM/CE 151 abc or equivalent.",
+        "prereqs": []
+    },
+    "ce-200": {
+        "id": "ce-200",
+        "course_id": "CE 200",
+        "name": "Advanced Work in Civil Engineering",
+        "units": "6 or more units as arranged",
+        "terms": "any term",
+        "description": "A faculty mentor will oversee a student proposed, independent research or study project to meet the needs of graduate students. Graded pass/fail. The consent of a faculty mentor and a written report is required for each term.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/advanced-work-in-civil-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "ce-201": {
+        "id": "ce-201",
+        "course_id": "CE 201",
+        "name": "Advanced Topics in Civil Engineering",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "The faculty will prepare courses on advanced topics to meet the needs of graduate students.",
+        "offered": true,
+        "instructors": "Andrade",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/advanced-topics-in-civil-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aeamceme-214": {
+        "id": "aeamceme-214",
+        "course_id": "Ae/AM/CE/ME 214",
+        "name": "Computational Solid Mechanics",
+        "units": "9 units (3-5-1)",
+        "terms": "second term",
+        "description": "This course focuses on the analysis of elastic thin shell structures in the large deformation regime. Problems of interest include softening behavior, bifurcations, loss of stability and localization. Introduction to the use of numerical methods in the solution of solid mechanics and multiscale mechanics problems. Variational principles. Finite element and isogeometric formulations for thin shells. Time integration, initial boundary value problems. Error estimation. Accuracy, stability and convergence. Iterative solution methods. Adaptive strategies.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/computational-solid-mechanics",
+        "prereq_text": "Prerequisites: ACM 100 ab or equivalent; CE/AM/Ae 108 ab or equivalent or instructor's permission; Ae/AM/CE/ME 102 abc or instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "aece-221": {
+        "id": "aece-221",
+        "course_id": "Ae/CE 221",
+        "name": "Space Structures",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "This course examines the links between form, geometric shape, and structural performance. It deals with different ways of breaking up a continuum, and how this affects global structural properties; structural concepts and preliminary design methods that are used in tension structures and deployable structures. Geometric foundations, polyhedra and tessellations, surfaces; space frames, examples of space frames, stiffness and structural efficiency of frames with different repeating units; sandwich plates; cable and membrane structures, form-finding, wrinkle-free pneumatic domes, balloons, tension-stabilized struts, tensegrity domes; deployable and adaptive structures, coiled rods and their applications, flexible shells, membranes, structural mechanisms, actuators, concepts for adaptive trusses and manipulators.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/space-structures",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "gebiesece-249": {
+        "id": "gebiesece-249",
+        "course_id": "Ge/Bi/ESE/CE 249",
+        "name": "Stable Isotopes: Ecological and Environmental Applications",
+        "units": "9 units (3-3-3)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Tejada",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/stable-isotopes:-ecological-and-environmental-applications",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "amceme-252": {
+        "id": "amceme-252",
+        "course_id": "AM/CE/ME 252",
+        "name": "Linear and Nonlinear Waves in Structured Media",
+        "units": "9 units (2-1-6)",
+        "terms": "third term",
+        "description": "The course will cover the basic principles of wave propagation in solid media. It will discuss the fundamental principles used to describe linear and nonlinear wave propagation in continuum and discrete media. Selected recent scientific advancements in the dynamics of periodic media will also be discussed. Students learn the basic principles governing the propagation of waves in discrete and continuum solid media. These methods can be used to engineer materials with predefined properties and to design dynamical systems for a variety of engineering applications (e.g., vibration mitigation, impact absorption and sound insulation). The course will include an experimental component, to test wave phenomena in structured media.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/linear-and-nonlinear-waves-in-structured-media",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aeamcemege-265-ab": {
+        "id": "aeamcemege-265-ab",
+        "course_id": "Ae/AM/CE/ME/Ge 265 ab",
+        "name": "Static and Dynamic Failure of Brittle Solids and Interfaces, from the Micro to the Mega",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Linear elastic fracture mechanics of homogeneous brittle solids (e.g. geo-materials, ceramics, metallic glasses); small scale yielding concepts; experimental methods in fracture, fracture of bi-material interfaces with applications to composites as well as bonded and layered engineering and geological structures; thin-film and micro-electronic components and systems; dynamic fracture mechanics of homogeneous engineering materials; dynamic shear dominated failure of coherent and incoherent interfaces at all length scales; dynamic rupture of frictional interfaces with application to earthquake source mechanics; allowable rupture speeds regimes and connections to earthquake seismology and the generation of Tsunamis.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/static-and-dynamic-failure-of-brittle-solids-and-interfaces,-from-the-micro-to-the-mega",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 abc (concurrently) or equivalent and/or instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "ce-300": {
+        "id": "ce-300",
+        "course_id": "CE 300",
+        "name": "Research in Civil Engineering",
+        "units": "Hours and units by arrangement",
+        "terms": "",
+        "description": "Research in the field of civil engineering. By arrangements with members of the staff, properly qualified graduate students are directed in research.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/ce/research-in-civil-engineering",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}
