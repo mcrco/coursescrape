@@ -1,0 +1,48 @@
+{
+    "meeeest-117": {
+        "id": "meeeest-117",
+        "course_id": "ME/EE/EST 117",
+        "name": "Energy Technology and Policy",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "Energy technologies and the impact of government policy. Fossil fuels, nuclear power, and renewables for electricity production and transportation. Resource models and climate change policies. New and emerging technologies.",
+        "offered": true,
+        "instructors": "Blanquart",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/est/#energy-technology-and-policy",
+        "prereq_text": "Prerequisites: Ph 1 abc, Ch 1 ab and Ma 1 abc.",
+        "prereqs": [
+            "ma-1-d",
+            "ph-1-abc",
+            "ma-1-abc"
+        ]
+    },
+    "eecsest-135": {
+        "id": "eecsest-135",
+        "course_id": "EE/CS/EST 135",
+        "name": "Power System Analysis",
+        "units": "9 units (3-3-3)",
+        "terms": "first term",
+        "description": "We are at the beginning of a historic transformation to decarbonize our energy system. This course introduces the basics of power systems analysis: phasor representation, 3-phase transmission system, transmission line models, transformer models, per-unit analysis, network matrix, power flow equations, power flow algorithms, optimal powerflow (OPF) problems, unbalanced power flow analysis and optimization,swing dynamics and stability.",
+        "offered": true,
+        "instructors": "Low",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/est/#power-system-analysis",
+        "prereq_text": "Prerequisites: EE 44, Ma 2, or equivalent.",
+        "prereqs": [
+            "ma-2102",
+            "ee-44"
+        ]
+    },
+    "esemeesteccheee-179": {
+        "id": "esemeesteccheee-179",
+        "course_id": "ESE/ME/EST/Ec/ChE/EE 179",
+        "name": "Climate Change Impacts, Mitigation and Adaptation",
+        "units": "3 units (3-0-0)",
+        "terms": "second term",
+        "description": "Climate change has already begun to impact life on the planet, and will continue in the coming decades. This class will explore particular causes and impacts of climate change, technologies to mitigate or adapt to those impacts, and the economic and social costs associated with them - particular focus will be paid to distributional issues, environmental and racial justice and equity intersections. The course will consist of 3-4 topical modules, each focused on a specific impact or sector (e.g. the electricity or transportation sector, climate impacts of food and agriculture, increasing fires and floods). Each module will contain lectures/content on the associated climate science background, engineering/technological developments to combat the issue, and an exploration of the economics and the inequities that exacerbate the situation, followed by group discussion and synthesis of the different perspectives.",
+        "offered": true,
+        "instructors": "Wennberg, Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/est/#climate-change-impacts,-mitigation-and-adaptation",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

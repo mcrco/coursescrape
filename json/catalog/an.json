@@ -1,0 +1,41 @@
+{
+    "an-97": {
+        "id": "an-97",
+        "course_id": "An 97",
+        "name": "Undergraduate Research",
+        "units": "",
+        "terms": "any term",
+        "description": "This course offers advanced undergraduates the opportunity to pursue research in Anthropology individually or in a small group. Graded pass/fail.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/an/#undergraduate-research",
+        "prereq_text": "Prerequisites: advanced Anthropology and instructor's permission.",
+        "prereqs": []
+    },
+    "an-101": {
+        "id": "an-101",
+        "course_id": "An 101",
+        "name": "Selected Topics in Anthropology",
+        "units": "",
+        "terms": "offered by announcement",
+        "description": "Topics to be determined by instructor.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/an/#selected-topics-in-anthropology",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "anps-127": {
+        "id": "anps-127",
+        "course_id": "An/PS 127",
+        "name": "Corruption",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second terms",
+        "description": "Corruption taxes economies and individuals in both the developing and the developed world. We will examine what corruption means in different places and contexts, from grand financial scandals to misappropriation of all manner of public resources. How do we measure corruption? What are its costs and social consequences? What have culture and psychology got to do with it? How much do governance and a free press matter? What are the potential solutions? Students will work closely with the professor to develop an independent and original research project of their choice. Limited enrollment.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/an/#corruption",
+        "prereq_text": "Prerequisites: AN 14 or PS 12.",
+        "prereqs": []
+    }
+}

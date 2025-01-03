@@ -1,11 +1,13 @@
-from bs4 import BeautifulSoup
+import os
+import json
 import requests
+from bs4 import BeautifulSoup
+from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from json_util import save_courses
 from prereq import extract_prereqs
 
 
@@ -28,7 +30,7 @@ def scrape(dept):
             strip=True
         )
         name = div.find("h2", class_="course-description2__title").get_text(strip=True)
-        link = url + "/" + "-".join([token.lower() for token in name.split()])
+        link = url + "/#" + "-".join([token.lower() for token in name.split()])
 
         units = ""
         terms = ""
@@ -84,6 +86,17 @@ def scrape(dept):
         }
 
     return courses
+
+
+# save courses to dept.json
+def save_courses(courses: dict, dept: str):
+    file = f"{dept}.json"
+    save_dir = Path("json/catalog")
+    if not save_dir.exists():
+        save_dir.mkdir()
+    with open(os.path.join(str(save_dir), file), "w", encoding="utf-8") as json_file:
+        json.dump(courses, json_file, indent=4)
+    print(f"{dept.upper()} courses (prereqs as text) saved to {file}")
 
 
 if __name__ == "__main__":

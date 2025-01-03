@@ -1,0 +1,259 @@
+{
+    "aeamceme-102-abc": {
+        "id": "aeamceme-102-abc",
+        "course_id": "Ae/AM/CE/ME 102 abc",
+        "name": "Mechanics of Structures and Solids",
+        "units": "9 units (3-0-6)",
+        "terms": "first, second, third terms",
+        "description": "Introduction to continuum mechanics: kinematics, balance laws, constitutive laws with an emphasis on solids. Static and dynamic stress analysis. Two- and three-dimensional theory of stressed elastic solids. Wave propagation. Analysis of rods, plates and shells with applications in a variety of fields. Variational theorems and approximate solutions. Elastic stability.",
+        "offered": true,
+        "instructors": "Lapusta, Ravichandran",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#mechanics-of-structures-and-solids",
+        "prereq_text": "Prerequisites: ME 12 abc.",
+        "prereqs": [
+            "me-12-abc"
+        ]
+    },
+    "ceaeam-108": {
+        "id": "ceaeam-108",
+        "course_id": "CE/Ae/AM 108",
+        "name": "Computational Mechanics",
+        "units": "9 units (3-5-1)",
+        "terms": "first, second terms",
+        "description": "Numerical methods and techniques for solving initial boundary value problems in continuum mechanics (from heat conduction to statics and dynamics of solids and structures). Finite difference methods, direct methods, variational methods, finite elements in small strains and at finite deformation for applications in structural mechanics and solid mechanics. Solution of the partial differential equations of heat transfer, solid and structural mechanics, and fluid mechanics. Transient and nonlinear problems. Computational aspects and development and use of finite element code.",
+        "offered": true,
+        "instructors": "Ramarathinam",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#computational-mechanics",
+        "prereq_text": "Prerequisites: Ae/AM/ME/CE 102 abc or Ae/GE/ME 160 ab, or instructor's permission.",
+        "prereqs": [
+            "aegeme-160-ab"
+        ]
+    },
+    "amacm-127": {
+        "id": "amacm-127",
+        "course_id": "AM/ACM 127",
+        "name": "Calculus of Variations",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "First and second variations; Euler-Lagrange equation; Hamiltonian formalism; action principle; Hamilton-Jacobi theory; stability; local and global minima; direct methods and relaxation; isoperimetric inequality; asymptotic methods and gamma convergence; selected applications to mechanics, materials science, control theory and numerical methods.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#calculus-of-variations",
+        "prereq_text": "Prerequisites: ACM 95/100.",
+        "prereqs": [
+            "acm-95100-ab"
+        ]
+    },
+    "amceme-150-abc": {
+        "id": "amceme-150-abc",
+        "course_id": "AM/CE/ME 150 abc",
+        "name": "Graduate Engineering Seminar",
+        "units": "1 unit",
+        "terms": "each term",
+        "description": "Students attend a graduate seminar each week of each term and submit a report about the attended seminars. At least four of the attended seminars each term should be from the Mechanical and Civil Engineering seminar series. Students not registered for the M.S. and Ph.D. degrees must receive the instructor's permission. Graded pass/fail.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#graduate-engineering-seminar",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "amce-151": {
+        "id": "amce-151",
+        "course_id": "AM/CE 151",
+        "name": "Dynamics and Vibration",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Equilibrium concepts, conservative and dissipative systems, Lagrange's equations, differential equations of motion for discrete single and multi degree-of-freedom systems, natural frequencies and mode shapes of these systems (Eigenvalue problem associated with the governing equations), phase plane analysis of vibrating systems, forms of damping and energy dissipated in damped systems, response to simple force pulses, harmonic and earthquake excitation, response spectrum concepts, vibration isolation, seismic instruments, dynamics of continuous systems, Hamilton's principle, axial vibration of rods and membranes, transverse vibration of strings, beams (Bernoulli-Euler and Timoshenko beam theory), and plates, traveling and standing wave solutions to motion of continuous systems, Rayleigh quotient and the Rayleigh-Ritz method to approximate natural frequencies and mode shapes of discrete and continuous systems, frequency domain solutions to dynamical systems, stability criteria for dynamical systems, and introduction to nonlinear systems and random vibration theory.",
+        "offered": true,
+        "instructors": "Asimaki",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#dynamics-and-vibration",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "amme-165": {
+        "id": "amme-165",
+        "course_id": "AM/ME 165",
+        "name": "Finite Elasticity",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Finite theory of elasticity: constitutive theory, semi-inverse methods. Variational methods. Applications to problems of current interest.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#finite-elasticity",
+        "prereq_text": "Prerequisites: Ae/Ge/ME 160 a.",
+        "prereqs": [
+            "aegeme-160-ab"
+        ]
+    },
+    "am-200": {
+        "id": "am-200",
+        "course_id": "AM 200",
+        "name": "Advanced Work in Applied Mechanics",
+        "units": "Hours and units by arrangement",
+        "terms": "",
+        "description": "A faculty mentor will oversee a student proposed, independent research or study project to meet the needs of graduate students. Graded pass/fail. The consent of a faculty mentor and a written report is required for each term of work.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#advanced-work-in-applied-mechanics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "am-201": {
+        "id": "am-201",
+        "course_id": "AM 201",
+        "name": "Advanced Topics in Applied Mechanics",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "The faculty will prepare courses on advanced topics to meet the needs of graduate students.",
+        "offered": true,
+        "instructors": "Andrade",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#advanced-topics-in-applied-mechanics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aeammsme-213": {
+        "id": "aeammsme-213",
+        "course_id": "Ae/AM/MS/ME 213",
+        "name": "Mechanics and Materials Aspects of Fracture",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "Analytical and experimental techniques in the study of fracture in metallic and nonmetallic solids. Mechanics of brittle and ductile fracture; connections between the continuum descriptions of fracture and micromechanisms. Discussion of elastic-plastic fracture analysis and fracture criteria. Special topics include fracture by cleavage, void growth, rate sensitivity, crack deflection and toughening mechanisms, as well as fracture of nontraditional materials. Fatigue crack growth and life prediction techniques will also be discussed. In addition, \"dynamic\" stress wave dominated, failure initiation growth and arrest phenomena will be covered. This will include traditional dynamic fracture considerations as well as discussions of failure by adiabatic shear localization.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#mechanics-and-materials-aspects-of-fracture",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 abc (concurrently) or equivalent and instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "aeamceme-214": {
+        "id": "aeamceme-214",
+        "course_id": "Ae/AM/CE/ME 214",
+        "name": "Computational Solid Mechanics",
+        "units": "9 units (3-5-1)",
+        "terms": "second term",
+        "description": "This course focuses on the analysis of elastic thin shell structures in the large deformation regime. Problems of interest include softening behavior, bifurcations, loss of stability and localization. Introduction to the use of numerical methods in the solution of solid mechanics and multiscale mechanics problems. Variational principles. Finite element and isogeometric formulations for thin shells. Time integration, initial boundary value problems. Error estimation. Accuracy, stability and convergence. Iterative solution methods. Adaptive strategies.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#computational-solid-mechanics",
+        "prereq_text": "Prerequisites: ACM 100 ab or equivalent; CE/AM/Ae 108 ab or equivalent or instructor's permission; Ae/AM/CE/ME 102 abc or instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "aeamme-215": {
+        "id": "aeamme-215",
+        "course_id": "Ae/AM/ME 215",
+        "name": "Dynamic Behavior of Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Fundamentals of theory of wave propagation; plane waves, wave guides, dispersion relations; dynamic plasticity, adiabatic shear banding; dynamic fracture; shock waves, equation of state.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#dynamic-behavior-of-materials",
+        "prereq_text": "Prerequisites: ACM 100 abc or AM 125 abc; Ae/AM/CE/ME 102 abc.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "memsam-221": {
+        "id": "memsam-221",
+        "course_id": "ME/MS/AM 221",
+        "name": "Effective properties of heterogenous and meta-materials",
+        "units": "",
+        "terms": "third term",
+        "description": "Heterogenous materials. Notion of effective properties. Homogenization theory and applications to linear conductivity, elasticity and viscoelasticity. Effective properties in non-linear setting and instabilities.  Wave propagation and meta-materials. Bandgaps.",
+        "offered": true,
+        "instructors": "Bhattacharya",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#effective-properties-of-heterogenous-and-meta-materials",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 or equivalent.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "aeamme-223": {
+        "id": "aeamme-223",
+        "course_id": "Ae/AM/ME 223",
+        "name": "Plasticity",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Theory of dislocations in crystalline media. Characteristics of dislocations and their influence on the mechanical behavior in various crystal structures. Application of dislocation theory to single and polycrystal plasticity. Theory of the inelastic behavior of materials with negligible time effects. Experimental background for metals and fundamental postulates for plastic stress-strain relations. Variational principles for incremental elastic-plastic problems, uniqueness. Upper and lower bound theorems of limit analysis and shakedown. Slip line theory and applications. Additional topics may include soils, creep and rate-sensitive effects in metals, the thermodynamics of plastic deformation, and experimental methods in plasticity.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#plasticity",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 abc or instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "memsaeam-224": {
+        "id": "memsaeam-224",
+        "course_id": "ME/MS/Ae/AM 224",
+        "name": "Multifunctional Materials",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "Multiscale view of materials and different approaches of introducing functionality; Electronic aspects and multiferroic materials; Symmetry breaking phase transformations, microstructure: shape-memory alloys, ferroelectrics, liquid crystal elastomers; Composite materials and metamaterials: multifunctional structures.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#multifunctional-materials",
+        "prereq_text": "Prerequisites: MS 115 or equivalent, Ae/AM/CE/ME 102 abc or APh 105 abc (may be waived with instructor's permission).",
+        "prereqs": [
+            "ph-105",
+            "aeamceme-102-abc"
+        ]
+    },
+    "aeammege-225": {
+        "id": "aeammege-225",
+        "course_id": "Ae/AM/ME/Ge 225",
+        "name": "Special Topics in Solid Mechanics",
+        "units": "",
+        "terms": "first, second, third terms",
+        "description": "Subject matter changes depending on staff and student interest.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#special-topics-in-solid-mechanics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "amceme-252": {
+        "id": "amceme-252",
+        "course_id": "AM/CE/ME 252",
+        "name": "Linear and Nonlinear Waves in Structured Media",
+        "units": "9 units (2-1-6)",
+        "terms": "third term",
+        "description": "The course will cover the basic principles of wave propagation in solid media. It will discuss the fundamental principles used to describe linear and nonlinear wave propagation in continuum and discrete media. Selected recent scientific advancements in the dynamics of periodic media will also be discussed. Students learn the basic principles governing the propagation of waves in discrete and continuum solid media. These methods can be used to engineer materials with predefined properties and to design dynamical systems for a variety of engineering applications (e.g., vibration mitigation, impact absorption and sound insulation). The course will include an experimental component, to test wave phenomena in structured media.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#linear-and-nonlinear-waves-in-structured-media",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "aeamcemege-265-ab": {
+        "id": "aeamcemege-265-ab",
+        "course_id": "Ae/AM/CE/ME/Ge 265 ab",
+        "name": "Static and Dynamic Failure of Brittle Solids and Interfaces, from the Micro to the Mega",
+        "units": "9 units (3-0-6)",
+        "terms": "second term",
+        "description": "Linear elastic fracture mechanics of homogeneous brittle solids (e.g. geo-materials, ceramics, metallic glasses); small scale yielding concepts; experimental methods in fracture, fracture of bi-material interfaces with applications to composites as well as bonded and layered engineering and geological structures; thin-film and micro-electronic components and systems; dynamic fracture mechanics of homogeneous engineering materials; dynamic shear dominated failure of coherent and incoherent interfaces at all length scales; dynamic rupture of frictional interfaces with application to earthquake source mechanics; allowable rupture speeds regimes and connections to earthquake seismology and the generation of Tsunamis.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#static-and-dynamic-failure-of-brittle-solids-and-interfaces,-from-the-micro-to-the-mega",
+        "prereq_text": "Prerequisites: Ae/AM/CE/ME 102 abc (concurrently) or equivalent and/or instructor's permission.",
+        "prereqs": [
+            "aeamceme-102-abc"
+        ]
+    },
+    "am-300": {
+        "id": "am-300",
+        "course_id": "AM 300",
+        "name": "Research in Applied Mechanics",
+        "units": "Hours and units by arrangement",
+        "terms": "",
+        "description": "Research in the field of applied mechanics. By arrangement with members of the staff, properly qualified graduate students are directed in research.",
+        "offered": true,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/am/#research-in-applied-mechanics",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

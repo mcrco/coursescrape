@@ -1,0 +1,69 @@
+{
+    "sa-15-abc": {
+        "id": "sa-15-abc",
+        "course_id": "SA 15 abc",
+        "name": "Student Publications",
+        "units": "SA 15 a 5 units (2-0-3), first term; SA 15 bc 4 units (1-0-3), second and third terms",
+        "terms": "first, second, third terms",
+        "description": "This course will enable students to produce quality, journalistically-crafted stories for the Tech newspaper. It will teach journalistic values of clarity, accuracy, fairness and balance, and acquaint the students with the primary elements of journalism, including reporting, basic story structure and news/opinion-writing distinctions. Students will produce feature stories for the Tech (with assigned art or graphics) about campus life and activities, profiles of campus faculty or staff, and issues of campus community interest. May be re-taken for credit.\n Not offered 2022-23.",
+        "offered": false,
+        "instructors": "Kipling",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/sa/#student-publications",
+        "prereq_text": "Prerequisites: SA 15 a is a prerequisite for SA 15 b and SA 15 c.",
+        "prereqs": []
+    },
+    "sa-16-abc": {
+        "id": "sa-16-abc",
+        "course_id": "SA 16 abc",
+        "name": "Cooking Basics",
+        "units": "3 units (0-3-0)",
+        "terms": "first, second, third terms",
+        "description": "The class will survey different cooking styles, techniques, and cuisines from around the world. Topics covered may include knives and tools; tastes and flavors; sauces and reductions; legumes, grains, and beans; meat; dessert. The emphasis will be on presentation and creativity.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/sa/#cooking-basics",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "sa-42": {
+        "id": "sa-42",
+        "course_id": "SA 42",
+        "name": "Computer Science Education in K-14 Settings Practicum",
+        "units": "4 units (0-2-2)",
+        "terms": "first, second, third terms",
+        "description": "This course is a follow-on for students who have already taken CS 42 and would like to continue as part of a teaching group partnered with a local school or community college. Each week students are expected to spend about 2 hours teaching and 2 hours developing curricula. Students may take SA 42 multiple times. Graded pass/fail only.",
+        "offered": true,
+        "instructors": "Ralph",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/sa/#computer-science-education-in-k-14-settings-practicum",
+        "prereq_text": "Prerequisites: CS 42.",
+        "prereqs": [
+            "cs-42"
+        ]
+    },
+    "sa-80-abc": {
+        "id": "sa-80-abc",
+        "course_id": "SA 80 abc",
+        "name": "Health Advocates",
+        "units": "3 units (1-1-1)",
+        "terms": "first, second, third terms",
+        "description": "A course designed to involve students with health care and education, develop familiarity with common college health problems, and provide peer health services on and off campus. The training involves American Red Cross Emergency Medical Response certification, routine illnesses and injuries and peer counseling. All training is cumulative from the prior term. Opportunities to volunteer at community first aid stations are provided.",
+        "offered": true,
+        "instructors": "Stapf",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/sa/#health-advocates",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "sa-81": {
+        "id": "sa-81",
+        "course_id": "SA 81",
+        "name": "Peer Advocates",
+        "units": "3 units (1-1-1)",
+        "terms": "third term",
+        "description": "A course designed to involve students with appropriate peer support and education, develop familiarity with common college mental health problems, and provide peer mental health support to students on and off campus. Active listening skills, identifying students in distress, suicide prevention, lectures and discussions on substance abuse, dating violence, sexual assault, depression, and other relevant mental health topics, as well as ongoing consultation about practical experience. Enrolled with permission only.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/sa/#peer-advocates",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

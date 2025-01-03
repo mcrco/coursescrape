@@ -1,0 +1,15 @@
+{
+    "pllaw-99": {
+        "id": "pllaw-99",
+        "course_id": "Pl/Law 99",
+        "name": "Causation and Responsibility",
+        "units": "9 units (3-0-6)",
+        "terms": "third term",
+        "description": "This course will examine the interrelationships between the concepts of causation, moral responsibility, and legal liability. It will consider legal doctrines of causation and responsibility, as well as attempts within philosophy to articulate these concepts. Questions to be addressed include: Can you be morally or legally responsible for harms that you do not cause? Is it worse to cause some harm, than to unsuccessfully attempt it? Is it justified to punish those who cause harm more severely than those who attempt harm? When, if ever, can the ends justify the means? What constitutes negligence? Is it worse to cause some harm, than to allow it to happen (when you could have prevented it)?\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Hitchcock",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/law/#causation-and-responsibility",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}

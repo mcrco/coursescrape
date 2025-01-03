@@ -1,0 +1,166 @@
+{
+    "cms-9": {
+        "id": "cms-9",
+        "course_id": "CMS 9",
+        "name": "Introduction to Computer Science Research",
+        "units": "1 unit (1-0-0)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Low",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#introduction-to-computer-science-research",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "cmsacmids-107-ab": {
+        "id": "cmsacmids-107-ab",
+        "course_id": "CMS/ACM/IDS 107 ab",
+        "name": "Linear Analysis with Applications",
+        "units": "12 units (3-0-9)",
+        "terms": "first term",
+        "description": "Part a: Covers the basic algebraic, geometric, and topological properties of normed linear spaces, inner-product spaces and linear maps. Emphasis is placed both on rigorous mathematical development and on applications to control theory, data analysis and partial differential equations. Topics: Completeness, Banach spaces (l_p, L_p), Hilbert spaces (weighted l_2, L_2 spaces), introduction to Fourier transform, Fourier series and Sobolev spaces, Banach spaces of linear operators, duality and weak convergence, density, separability, completion, Schauder bases, continuous and compact embedding, compact operators, orthogonality, Lax-Milgram, Spectral Theorem and SVD for compact operators, integral operators, Jordan normal form. Part b: Continuation of ACM 107a, developing new material and providing further details on some topics already covered. Emphasis is placed both on rigorous mathematical development and on applications to control theory, data analysis and partial differential equations.Topics: Review of Banach spaces, Hilbert spaces, Linear Operators, and Duality, Hahn-Banach Theorem, Open Mapping and Closed Graph Theorem, Uniform Boundedness Principle, The Fourier transform (L1, L2, Schwartz space theory), Sobolev spaces (W^s,p, H^s), Sobolev embedding theorem, Trace theorem Spectral Theorem, Compact operators, Ascoli Arzela theorem, Contraction Mapping Principle, with applications to the Implicit Function Theorem and ODEs, Calculus of Variations (differential calculus, existence of extrema, Gamma-convergence, gradient flows) Applications to Inverse Problems (Tikhonov regularization, imaging applications).",
+        "offered": true,
+        "instructors": "Stuart",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#linear-analysis-with-applications",
+        "prereq_text": "Prerequisites: ACM/IDS 104 or equivalent, Ma 1b or equivalent.",
+        "prereqs": [
+            "acmids-104",
+            "ma-1-abc",
+            "ma-1-d"
+        ]
+    },
+    "cmsacm-117": {
+        "id": "cmsacm-117",
+        "course_id": "CMS/ACM 117",
+        "name": "Probability Theory and Computational Mathematics",
+        "units": "12 units (3-0-9)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Tropp",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#probability-theory-and-computational-mathematics",
+        "prereq_text": "Prerequisites: ACM 104 and ACM 116; or instructor's permission.",
+        "prereqs": []
+    },
+    "cmsacmee-122": {
+        "id": "cmsacmee-122",
+        "course_id": "CMS/ACM/EE 122",
+        "name": "Mathematical Optimization",
+        "units": "12 units (4-0-8)",
+        "terms": "first term",
+        "description": "",
+        "offered": true,
+        "instructors": "Chandrasekaran",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#mathematical-optimization",
+        "prereq_text": "Prerequisites: ACM 11 and ACM 104, or instructor's permission.",
+        "prereqs": [
+            "acm-11"
+        ]
+    },
+    "cmscsids-139": {
+        "id": "cmscsids-139",
+        "course_id": "CMS/CS/IDS 139",
+        "name": "Analysis and Design of Algorithms",
+        "units": "12 units (3-0-9)",
+        "terms": "first term",
+        "description": "This course develops core principles for the analysis and design of algorithms. Basic material includes mathematical techniques for analyzing performance in terms of resources, such as time, space, and randomness. The course introduces the major paradigms for algorithm design, including greedy methods, divide-and-conquer, dynamic programming, linear and semidefinite programming, randomized algorithms, and online learning.\n Not offered 2024-25",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#analysis-and-design-of-algorithms",
+        "prereq_text": "Prerequisites: Ma 2, Ma 3, Ma/CS 6 a, CS 21, CS 38/138, and ACM/EE/IDS 116 or CMS/ACM/EE 122 or equivalent.",
+        "prereqs": [
+            "ma-3103",
+            "cmsacmee-122",
+            "acmeeids-116",
+            "macs-6106-abc",
+            "cs-38",
+            "cs-21",
+            "ma-2102"
+        ]
+    },
+    "cmscsecee-144": {
+        "id": "cmscsecee-144",
+        "course_id": "CMS/CS/Ec/EE 144",
+        "name": "Networks: Structure & Economics",
+        "units": "12 units (3-4-5)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Mazumdar",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#networks:-structure-&-economics",
+        "prereq_text": "Prerequisites: Ma 2, Ma 3, Ma/CS 6 a, and CS 38, or instructor permission.",
+        "prereqs": [
+            "cs-38",
+            "ma-2102",
+            "macs-6106-abc",
+            "ma-3103"
+        ]
+    },
+    "cmscscnseeids-155": {
+        "id": "cmscscnseeids-155",
+        "course_id": "CMS/CS/CNS/EE/IDS 155",
+        "name": "Machine Learning & Data Mining",
+        "units": "12 units (3-3-6)",
+        "terms": "second term",
+        "description": "",
+        "offered": true,
+        "instructors": "Yue",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#machine-learning-&-data-mining",
+        "prereq_text": "Prerequisites: CS/CNS/EE 156 a. Having a sufficient background in algorithms, linear algebra, calculus, probability, and statistics, is highly recommended.",
+        "prereqs": [
+            "cscnsee-156-ab"
+        ]
+    },
+    "cmsecids-248": {
+        "id": "cmsecids-248",
+        "course_id": "CMS/Ec/IDS 248",
+        "name": "Topics in Learning and Games",
+        "units": "9 units (3-0-6)",
+        "terms": "first term",
+        "description": "This course is an advanced topics course intended for graduate students with a background in optimization, linear systems theory, probability and statistics, and an interest in learning, game theory, and decision making more broadly. We will cover the basics of game theory including equilibrium notions and efficiency, learning algorithms for equilibrium seeking, and discuss connections to optimization, machine learning, and decision theory. While there will be some initial overview of game theory, the focus of the course will be on modern topics in learning as applied to games in both cooperative and non-cooperative settings. We will also discuss games of partial information and stochastic games as well as hierarchical decision-making problems (e.g., incentive and information design).\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#topics-in-learning-and-games",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "cms-270": {
+        "id": "cms-270",
+        "course_id": "CMS 270",
+        "name": "Advanced Topics in Computing and Mathematical Sciences",
+        "units": "",
+        "terms": "second term",
+        "description": "Advanced topics that will vary according to student and instructor interest. May be repeated for credit.\n Not offered 2024-25.",
+        "offered": false,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#advanced-topics-in-computing-and-mathematical-sciences",
+        "prereq_text": "",
+        "prereqs": []
+    },
+    "cms-290-abc": {
+        "id": "cms-290-abc",
+        "course_id": "CMS 290 abc",
+        "name": "Computing and Mathematical Sciences Colloquium",
+        "units": "1 unit",
+        "terms": "first, second, third terms",
+        "description": "This course is a research seminar course covering topics at the intersection of mathematics, computation, and their applications. Students are asked to attend one seminar per week (from any seminar series on campus) on topics related to computing and mathematical sciences. This course is a requirement for first-year PhD students in the CMS department.",
+        "offered": true,
+        "instructors": "Hoffmann",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#computing-and-mathematical-sciences-colloquium",
+        "prereq_text": "Prerequisites: Registration is limited to graduate students in the CMS department only.",
+        "prereqs": []
+    },
+    "cms-300": {
+        "id": "cms-300",
+        "course_id": "CMS 300",
+        "name": "Research in Computing and Mathematical Sciences",
+        "units": "Hours and units by arrangement",
+        "terms": "",
+        "description": "Research in the field of computing and mathematical science. By arrangement with members of the staff, properly qualified graduate students are directed in research.",
+        "offered": true,
+        "instructors": "Staff",
+        "link": "https://www.catalog.caltech.edu/current/2024-25/department/cms/#research-in-computing-and-mathematical-sciences",
+        "prereq_text": "",
+        "prereqs": []
+    }
+}
